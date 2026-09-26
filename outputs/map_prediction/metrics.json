@@ -1,0 +1,9 @@
+{
+  "best_validation_loss": 4.8871351488439056e-05,
+  "best_validation_mae": 0.004013244062662125,
+  "test_loss": 3.712896606884897e-05,
+  "test_mae": 0.003498708363622427,
+  "epochs": 50,
+  "device": "cpu",
+  "stress_scale": 16.270069122314453
+}

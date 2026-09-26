@@ -1,0 +1,3825 @@
+ ELEMENT            1 with label "CPS3    " and with nodes:
+        181        319        216
+  is expanded into a "C3D6  S " element with topology:
+        974       1388       1079        976       1390       1081
+
+ ELEMENT            2 with label "CPS3    " and with nodes:
+        305        307        119
+  is expanded into a "C3D6  S " element with topology:
+       1346       1352        788       1348       1354        790
+
+ ELEMENT            3 with label "CPS3    " and with nodes:
+        215        299        120
+  is expanded into a "C3D6  S " element with topology:
+       1076       1328        791       1078       1330        793
+
+ ELEMENT            4 with label "CPS3    " and with nodes:
+        240        324        132
+  is expanded into a "C3D6  S " element with topology:
+       1151       1403        827       1153       1405        829
+
+ ELEMENT            5 with label "CPS3    " and with nodes:
+        299        321        289
+  is expanded into a "C3D6  S " element with topology:
+       1328       1394       1298       1330       1396       1300
+
+ ELEMENT            6 with label "CPS3    " and with nodes:
+        124        343        288
+  is expanded into a "C3D6  S " element with topology:
+        803       1460       1295        805       1462       1297
+
+ ELEMENT            7 with label "CPS3    " and with nodes:
+        267        280        266
+  is expanded into a "C3D6  S " element with topology:
+       1232       1271       1229       1234       1273       1231
+
+ ELEMENT            8 with label "CPS3    " and with nodes:
+        136        345        277
+  is expanded into a "C3D6  S " element with topology:
+        839       1466       1262        841       1468       1264
+
+ ELEMENT            9 with label "CPS3    " and with nodes:
+        145        316        214
+  is expanded into a "C3D6  S " element with topology:
+        866       1379       1073        868       1381       1075
+
+ ELEMENT           10 with label "CPS3    " and with nodes:
+        147        214        179
+  is expanded into a "C3D6  S " element with topology:
+        872       1073        968        874       1075        970
+
+ ELEMENT           11 with label "CPS3    " and with nodes:
+        132        355        240
+  is expanded into a "C3D6  S " element with topology:
+        827       1496       1151        829       1498       1153
+
+ ELEMENT           12 with label "CPS3    " and with nodes:
+         58        309         57
+  is expanded into a "C3D6  S " element with topology:
+        605       1358        602        607       1360        604
+
+ ELEMENT           13 with label "CPS3    " and with nodes:
+        255        429        382
+  is expanded into a "C3D6  S " element with topology:
+       1196       1718       1577       1198       1720       1579
+
+ ELEMENT           14 with label "CPS3    " and with nodes:
+        119        309        305
+  is expanded into a "C3D6  S " element with topology:
+        788       1358       1346        790       1360       1348
+
+ ELEMENT           15 with label "CPS3    " and with nodes:
+        120        298        215
+  is expanded into a "C3D6  S " element with topology:
+        791       1325       1076        793       1327       1078
+
+ ELEMENT           16 with label "CPS3    " and with nodes:
+        264        265        208
+  is expanded into a "C3D6  S " element with topology:
+       1223       1226       1055       1225       1228       1057
+
+ ELEMENT           17 with label "CPS3    " and with nodes:
+        219        374        238
+  is expanded into a "C3D6  S " element with topology:
+       1088       1553       1145       1090       1555       1147
+
+ ELEMENT           18 with label "CPS3    " and with nodes:
+        288        343        290
+  is expanded into a "C3D6  S " element with topology:
+       1295       1460       1301       1297       1462       1303
+
+ ELEMENT           19 with label "CPS3    " and with nodes:
+        132        324        298
+  is expanded into a "C3D6  S " element with topology:
+        827       1403       1325        829       1405       1327
+
+ ELEMENT           20 with label "CPS3    " and with nodes:
+        250        313        297
+  is expanded into a "C3D6  S " element with topology:
+       1181       1370       1322       1183       1372       1324
+
+ ELEMENT           21 with label "CPS3    " and with nodes:
+        331        400        118
+  is expanded into a "C3D6  S " element with topology:
+       1424       1631        785       1426       1633        787
+
+ ELEMENT           22 with label "CPS3    " and with nodes:
+        298        381        132
+  is expanded into a "C3D6  S " element with topology:
+       1325       1574        827       1327       1576        829
+
+ ELEMENT           23 with label "CPS3    " and with nodes:
+        329        331        128
+  is expanded into a "C3D6  S " element with topology:
+       1418       1424        815       1420       1426        817
+
+ ELEMENT           24 with label "CPS3    " and with nodes:
+        189        389        208
+  is expanded into a "C3D6  S " element with topology:
+        998       1598       1055       1000       1600       1057
+
+ ELEMENT           25 with label "CPS3    " and with nodes:
+        179        366        281
+  is expanded into a "C3D6  S " element with topology:
+        968       1529       1274        970       1531       1276
+
+ ELEMENT           26 with label "CPS3    " and with nodes:
+        277        410        136
+  is expanded into a "C3D6  S " element with topology:
+       1262       1661        839       1264       1663        841
+
+ ELEMENT           27 with label "CPS3    " and with nodes:
+        215        321        299
+  is expanded into a "C3D6  S " element with topology:
+       1076       1394       1328       1078       1396       1330
+
+ ELEMENT           28 with label "CPS3    " and with nodes:
+        253        255        117
+  is expanded into a "C3D6  S " element with topology:
+       1190       1196        782       1192       1198        784
+
+ ELEMENT           29 with label "CPS3    " and with nodes:
+        214        366        179
+  is expanded into a "C3D6  S " element with topology:
+       1073       1529        968       1075       1531        970
+
+ ELEMENT           30 with label "CPS3    " and with nodes:
+        231        417        227
+  is expanded into a "C3D6  S " element with topology:
+       1124       1682       1112       1126       1684       1114
+
+ ELEMENT           31 with label "CPS3    " and with nodes:
+        281        366        113
+  is expanded into a "C3D6  S " element with topology:
+       1274       1529        770       1276       1531        772
+
+ ELEMENT           32 with label "CPS3    " and with nodes:
+        282        286        104
+  is expanded into a "C3D6  S " element with topology:
+       1277       1289        743       1279       1291        745
+
+ ELEMENT           33 with label "CPS3    " and with nodes:
+        233        325        199
+  is expanded into a "C3D6  S " element with topology:
+       1130       1406       1028       1132       1408       1030
+
+ ELEMENT           34 with label "CPS3    " and with nodes:
+          9        235        115
+  is expanded into a "C3D6  S " element with topology:
+        458       1136        776        460       1138        778
+
+ ELEMENT           35 with label "CPS3    " and with nodes:
+         22        268        111
+  is expanded into a "C3D6  S " element with topology:
+        497       1235        764        499       1237        766
+
+ ELEMENT           36 with label "CPS3    " and with nodes:
+         11        270        131
+  is expanded into a "C3D6  S " element with topology:
+        464       1241        824        466       1243        826
+
+ ELEMENT           37 with label "CPS3    " and with nodes:
+         31        266        112
+  is expanded into a "C3D6  S " element with topology:
+        524       1229        767        526       1231        769
+
+ ELEMENT           38 with label "CPS3    " and with nodes:
+          7        217        114
+  is expanded into a "C3D6  S " element with topology:
+        452       1082        773        454       1084        775
+
+ ELEMENT           39 with label "CPS3    " and with nodes:
+         18        253        117
+  is expanded into a "C3D6  S " element with topology:
+        485       1190        782        487       1192        784
+
+ ELEMENT           40 with label "CPS3    " and with nodes:
+         20        222        116
+  is expanded into a "C3D6  S " element with topology:
+        491       1097        779        493       1099        781
+
+ ELEMENT           41 with label "CPS3    " and with nodes:
+         13        313        134
+  is expanded into a "C3D6  S " element with topology:
+        470       1370        833        472       1372        835
+
+ ELEMENT           42 with label "CPS3    " and with nodes:
+        107        293        292
+  is expanded into a "C3D6  S " element with topology:
+        752       1310       1307        754       1312       1309
+
+ ELEMENT           43 with label "CPS3    " and with nodes:
+        281        393        179
+  is expanded into a "C3D6  S " element with topology:
+       1274       1610        968       1276       1612        970
+
+ ELEMENT           44 with label "CPS3    " and with nodes:
+        277        345        322
+  is expanded into a "C3D6  S " element with topology:
+       1262       1466       1397       1264       1468       1399
+
+ ELEMENT           45 with label "CPS3    " and with nodes:
+        199        394        233
+  is expanded into a "C3D6  S " element with topology:
+       1028       1613       1130       1030       1615       1132
+
+ ELEMENT           46 with label "CPS3    " and with nodes:
+        237        296        270
+  is expanded into a "C3D6  S " element with topology:
+       1142       1319       1241       1144       1321       1243
+
+ ELEMENT           47 with label "CPS3    " and with nodes:
+        332        400        331
+  is expanded into a "C3D6  S " element with topology:
+       1427       1631       1424       1429       1633       1426
+
+ ELEMENT           48 with label "CPS3    " and with nodes:
+        107        294        293
+  is expanded into a "C3D6  S " element with topology:
+        752       1313       1310        754       1315       1312
+
+ ELEMENT           49 with label "CPS3    " and with nodes:
+        224        269        268
+  is expanded into a "C3D6  S " element with topology:
+       1103       1238       1235       1105       1240       1237
+
+ ELEMENT           50 with label "CPS3    " and with nodes:
+        219        236        235
+  is expanded into a "C3D6  S " element with topology:
+       1088       1139       1136       1090       1141       1138
+
+ ELEMENT           51 with label "CPS3    " and with nodes:
+        129        309         58
+  is expanded into a "C3D6  S " element with topology:
+        818       1358        605        820       1360        607
+
+ ELEMENT           52 with label "CPS3    " and with nodes:
+         57        309        119
+  is expanded into a "C3D6  S " element with topology:
+        602       1358        788        604       1360        790
+
+ ELEMENT           53 with label "CPS3    " and with nodes:
+        175        376        152
+  is expanded into a "C3D6  S " element with topology:
+        956       1559        887        958       1561        889
+
+ ELEMENT           54 with label "CPS3    " and with nodes:
+        310        401        172
+  is expanded into a "C3D6  S " element with topology:
+       1361       1634        947       1363       1636        949
+
+ ELEMENT           55 with label "CPS3    " and with nodes:
+        118        373        331
+  is expanded into a "C3D6  S " element with topology:
+        785       1550       1424        787       1552       1426
+
+ ELEMENT           56 with label "CPS3    " and with nodes:
+        172        401        278
+  is expanded into a "C3D6  S " element with topology:
+        947       1634       1265        949       1636       1267
+
+ ELEMENT           57 with label "CPS3    " and with nodes:
+        216        280        267
+  is expanded into a "C3D6  S " element with topology:
+       1079       1271       1232       1081       1273       1234
+
+ ELEMENT           58 with label "CPS3    " and with nodes:
+        289        384        299
+  is expanded into a "C3D6  S " element with topology:
+       1298       1583       1328       1300       1585       1330
+
+ ELEMENT           59 with label "CPS3    " and with nodes:
+        218        312        219
+  is expanded into a "C3D6  S " element with topology:
+       1085       1367       1088       1087       1369       1090
+
+ ELEMENT           60 with label "CPS3    " and with nodes:
+        375        402         92
+  is expanded into a "C3D6  S " element with topology:
+       1556       1637        707       1558       1639        709
+
+ ELEMENT           61 with label "CPS3    " and with nodes:
+        162        304        303
+  is expanded into a "C3D6  S " element with topology:
+        917       1343       1340        919       1345       1342
+
+ ELEMENT           62 with label "CPS3    " and with nodes:
+        134        313        250
+  is expanded into a "C3D6  S " element with topology:
+        833       1370       1181        835       1372       1183
+
+ ELEMENT           63 with label "CPS3    " and with nodes:
+         92        402         91
+  is expanded into a "C3D6  S " element with topology:
+        707       1637        704        709       1639        706
+
+ ELEMENT           64 with label "CPS3    " and with nodes:
+        128        338        329
+  is expanded into a "C3D6  S " element with topology:
+        815       1445       1418        817       1447       1420
+
+ ELEMENT           65 with label "CPS3    " and with nodes:
+        285        431        178
+  is expanded into a "C3D6  S " element with topology:
+       1286       1724        965       1288       1726        967
+
+ ELEMENT           66 with label "CPS3    " and with nodes:
+        331        373        128
+  is expanded into a "C3D6  S " element with topology:
+       1424       1550        815       1426       1552        817
+
+ ELEMENT           67 with label "CPS3    " and with nodes:
+        246        367        244
+  is expanded into a "C3D6  S " element with topology:
+       1169       1532       1163       1171       1534       1165
+
+ ELEMENT           68 with label "CPS3    " and with nodes:
+        154        287        175
+  is expanded into a "C3D6  S " element with topology:
+        893       1292        956        895       1294        958
+
+ ELEMENT           69 with label "CPS3    " and with nodes:
+        270        296        131
+  is expanded into a "C3D6  S " element with topology:
+       1241       1319        824       1243       1321        826
+
+ ELEMENT           70 with label "CPS3    " and with nodes:
+        222        223        116
+  is expanded into a "C3D6  S " element with topology:
+       1097       1100        779       1099       1102        781
+
+ ELEMENT           71 with label "CPS3    " and with nodes:
+        217        218        114
+  is expanded into a "C3D6  S " element with topology:
+       1082       1085        773       1084       1087        775
+
+ ELEMENT           72 with label "CPS3    " and with nodes:
+        235        236        115
+  is expanded into a "C3D6  S " element with topology:
+       1136       1139        776       1138       1141        778
+
+ ELEMENT           73 with label "CPS3    " and with nodes:
+        290        343        142
+  is expanded into a "C3D6  S " element with topology:
+       1301       1460        857       1303       1462        859
+
+ ELEMENT           74 with label "CPS3    " and with nodes:
+        309        310        305
+  is expanded into a "C3D6  S " element with topology:
+       1358       1361       1346       1360       1363       1348
+
+ ELEMENT           75 with label "CPS3    " and with nodes:
+        268        269        111
+  is expanded into a "C3D6  S " element with topology:
+       1235       1238        764       1237       1240        766
+
+ ELEMENT           76 with label "CPS3    " and with nodes:
+        266        280        112
+  is expanded into a "C3D6  S " element with topology:
+       1229       1271        767       1231       1273        769
+
+ ELEMENT           77 with label "CPS3    " and with nodes:
+        150        306        162
+  is expanded into a "C3D6  S " element with topology:
+        881       1349        917        883       1351        919
+
+ ELEMENT           78 with label "CPS3    " and with nodes:
+        294        354        311
+  is expanded into a "C3D6  S " element with topology:
+       1313       1493       1364       1315       1495       1366
+
+ ELEMENT           79 with label "CPS3    " and with nodes:
+        104        286        217
+  is expanded into a "C3D6  S " element with topology:
+        743       1289       1082        745       1291       1084
+
+ ELEMENT           80 with label "CPS3    " and with nodes:
+        117        422        222
+  is expanded into a "C3D6  S " element with topology:
+        782       1697       1097        784       1699       1099
+
+ ELEMENT           81 with label "CPS3    " and with nodes:
+        208        389        264
+  is expanded into a "C3D6  S " element with topology:
+       1055       1598       1223       1057       1600       1225
+
+ ELEMENT           82 with label "CPS3    " and with nodes:
+        287        415        175
+  is expanded into a "C3D6  S " element with topology:
+       1292       1676        956       1294       1678        958
+
+ ELEMENT           83 with label "CPS3    " and with nodes:
+        189        208        191
+  is expanded into a "C3D6  S " element with topology:
+        998       1055       1004       1000       1057       1006
+
+ ELEMENT           84 with label "CPS3    " and with nodes:
+        181        216        183
+  is expanded into a "C3D6  S " element with topology:
+        974       1079        980        976       1081        982
+
+ ELEMENT           85 with label "CPS3    " and with nodes:
+        148        306        150
+  is expanded into a "C3D6  S " element with topology:
+        875       1349        881        877       1351        883
+
+ ELEMENT           86 with label "CPS3    " and with nodes:
+        142        409        290
+  is expanded into a "C3D6  S " element with topology:
+        857       1658       1301        859       1660       1303
+
+ ELEMENT           87 with label "CPS3    " and with nodes:
+        162        303        302
+  is expanded into a "C3D6  S " element with topology:
+        917       1340       1337        919       1342       1339
+
+ ELEMENT           88 with label "CPS3    " and with nodes:
+        243        295        102
+  is expanded into a "C3D6  S " element with topology:
+       1160       1316        737       1162       1318        739
+
+ ELEMENT           89 with label "CPS3    " and with nodes:
+        258        260        110
+  is expanded into a "C3D6  S " element with topology:
+       1205       1211        761       1207       1213        763
+
+ ELEMENT           90 with label "CPS3    " and with nodes:
+        263        295        265
+  is expanded into a "C3D6  S " element with topology:
+       1220       1316       1226       1222       1318       1228
+
+ ELEMENT           91 with label "CPS3    " and with nodes:
+        389        407        261
+  is expanded into a "C3D6  S " element with topology:
+       1598       1652       1214       1600       1654       1216
+
+ ELEMENT           92 with label "CPS3    " and with nodes:
+        221        281        113
+  is expanded into a "C3D6  S " element with topology:
+       1094       1274        770       1096       1276        772
+
+ ELEMENT           93 with label "CPS3    " and with nodes:
+        322        345        109
+  is expanded into a "C3D6  S " element with topology:
+       1397       1466        758       1399       1468        760
+
+ ELEMENT           94 with label "CPS3    " and with nodes:
+         77        385        371
+  is expanded into a "C3D6  S " element with topology:
+        662       1586       1544        664       1588       1546
+
+ ELEMENT           95 with label "CPS3    " and with nodes:
+        303        307        305
+  is expanded into a "C3D6  S " element with topology:
+       1340       1352       1346       1342       1354       1348
+
+ ELEMENT           96 with label "CPS3    " and with nodes:
+        278        410        277
+  is expanded into a "C3D6  S " element with topology:
+       1265       1661       1262       1267       1663       1264
+
+ ELEMENT           97 with label "CPS3    " and with nodes:
+        174        312        176
+  is expanded into a "C3D6  S " element with topology:
+        953       1367        959        955       1369        961
+
+ ELEMENT           98 with label "CPS3    " and with nodes:
+        101        359        100
+  is expanded into a "C3D6  S " element with topology:
+        734       1508        731        736       1510        733
+
+ ELEMENT           99 with label "CPS3    " and with nodes:
+        247        300         15
+  is expanded into a "C3D6  S " element with topology:
+       1172       1331        476       1174       1333        478
+
+ ELEMENT          100 with label "CPS3    " and with nodes:
+        143        178         38
+  is expanded into a "C3D6  S " element with topology:
+        860        965        545        862        967        547
+
+ ELEMENT          101 with label "CPS3    " and with nodes:
+        137        356        291
+  is expanded into a "C3D6  S " element with topology:
+        842       1499       1304        844       1501       1306
+
+ ELEMENT          102 with label "CPS3    " and with nodes:
+        255        382        117
+  is expanded into a "C3D6  S " element with topology:
+       1196       1577        782       1198       1579        784
+
+ ELEMENT          103 with label "CPS3    " and with nodes:
+        154        175        152
+  is expanded into a "C3D6  S " element with topology:
+        893        956        887        895        958        889
+
+ ELEMENT          104 with label "CPS3    " and with nodes:
+        110        267        266
+  is expanded into a "C3D6  S " element with topology:
+        761       1232       1229        763       1234       1231
+
+ ELEMENT          105 with label "CPS3    " and with nodes:
+        314        347        138
+  is expanded into a "C3D6  S " element with topology:
+       1373       1472        845       1375       1474        847
+
+ ELEMENT          106 with label "CPS3    " and with nodes:
+        380        384        135
+  is expanded into a "C3D6  S " element with topology:
+       1571       1583        836       1573       1585        838
+
+ ELEMENT          107 with label "CPS3    " and with nodes:
+        316        365        214
+  is expanded into a "C3D6  S " element with topology:
+       1379       1526       1073       1381       1528       1075
+
+ ELEMENT          108 with label "CPS3    " and with nodes:
+        226        228        225
+  is expanded into a "C3D6  S " element with topology:
+       1109       1115       1106       1111       1117       1108
+
+ ELEMENT          109 with label "CPS3    " and with nodes:
+        174        176        167
+  is expanded into a "C3D6  S " element with topology:
+        953        959        932        955        961        934
+
+ ELEMENT          110 with label "CPS3    " and with nodes:
+        294        399        354
+  is expanded into a "C3D6  S " element with topology:
+       1313       1628       1493       1315       1630       1495
+
+ ELEMENT          111 with label "CPS3    " and with nodes:
+        152        376        372
+  is expanded into a "C3D6  S " element with topology:
+        887       1559       1547        889       1561       1549
+
+ ELEMENT          112 with label "CPS3    " and with nodes:
+        152        372        149
+  is expanded into a "C3D6  S " element with topology:
+        887       1547        878        889       1549        880
+
+ ELEMENT          113 with label "CPS3    " and with nodes:
+        335        378        130
+  is expanded into a "C3D6  S " element with topology:
+       1436       1565        821       1438       1567        823
+
+ ELEMENT          114 with label "CPS3    " and with nodes:
+        239        296        237
+  is expanded into a "C3D6  S " element with topology:
+       1148       1319       1142       1150       1321       1144
+
+ ELEMENT          115 with label "CPS3    " and with nodes:
+        338        359        339
+  is expanded into a "C3D6  S " element with topology:
+       1445       1508       1448       1447       1510       1450
+
+ ELEMENT          116 with label "CPS3    " and with nodes:
+         19        222         20
+  is expanded into a "C3D6  S " element with topology:
+        488       1097        491        490       1099        493
+
+ ELEMENT          117 with label "CPS3    " and with nodes:
+         17        253         18
+  is expanded into a "C3D6  S " element with topology:
+        482       1190        485        484       1192        487
+
+ ELEMENT          118 with label "CPS3    " and with nodes:
+          6        217          7
+  is expanded into a "C3D6  S " element with topology:
+        449       1082        452        451       1084        454
+
+ ELEMENT          119 with label "CPS3    " and with nodes:
+         37        143         38
+  is expanded into a "C3D6  S " element with topology:
+        542        860        545        544        862        547
+
+ ELEMENT          120 with label "CPS3    " and with nodes:
+         30        266         31
+  is expanded into a "C3D6  S " element with topology:
+        521       1229        524        523       1231        526
+
+ ELEMENT          121 with label "CPS3    " and with nodes:
+         12        313         13
+  is expanded into a "C3D6  S " element with topology:
+        467       1370        470        469       1372        472
+
+ ELEMENT          122 with label "CPS3    " and with nodes:
+         14        247         15
+  is expanded into a "C3D6  S " element with topology:
+        473       1172        476        475       1174        478
+
+ ELEMENT          123 with label "CPS3    " and with nodes:
+         10        270         11
+  is expanded into a "C3D6  S " element with topology:
+        461       1241        464        463       1243        466
+
+ ELEMENT          124 with label "CPS3    " and with nodes:
+          8        235          9
+  is expanded into a "C3D6  S " element with topology:
+        455       1136        458        457       1138        460
+
+ ELEMENT          125 with label "CPS3    " and with nodes:
+         21        268         22
+  is expanded into a "C3D6  S " element with topology:
+        494       1235        497        496       1237        499
+
+ ELEMENT          126 with label "CPS3    " and with nodes:
+        155        302        161
+  is expanded into a "C3D6  S " element with topology:
+        896       1337        914        898       1339        916
+
+ ELEMENT          127 with label "CPS3    " and with nodes:
+        227        269        224
+  is expanded into a "C3D6  S " element with topology:
+       1112       1238       1103       1114       1240       1105
+
+ ELEMENT          128 with label "CPS3    " and with nodes:
+        299        384        380
+  is expanded into a "C3D6  S " element with topology:
+       1328       1583       1571       1330       1585       1573
+
+ ELEMENT          129 with label "CPS3    " and with nodes:
+        189        407        389
+  is expanded into a "C3D6  S " element with topology:
+        998       1652       1598       1000       1654       1600
+
+ ELEMENT          130 with label "CPS3    " and with nodes:
+        202        323        301
+  is expanded into a "C3D6  S " element with topology:
+       1037       1400       1334       1039       1402       1336
+
+ ELEMENT          131 with label "CPS3    " and with nodes:
+        292        370        107
+  is expanded into a "C3D6  S " element with topology:
+       1307       1541        752       1309       1543        754
+
+ ELEMENT          132 with label "CPS3    " and with nodes:
+        291        356        229
+  is expanded into a "C3D6  S " element with topology:
+       1304       1499       1118       1306       1501       1120
+
+ ELEMENT          133 with label "CPS3    " and with nodes:
+        310        391        305
+  is expanded into a "C3D6  S " element with topology:
+       1361       1604       1346       1363       1606       1348
+
+ ELEMENT          134 with label "CPS3    " and with nodes:
+        161        302        169
+  is expanded into a "C3D6  S " element with topology:
+        914       1337        938        916       1339        940
+
+ ELEMENT          135 with label "CPS3    " and with nodes:
+        156        287        154
+  is expanded into a "C3D6  S " element with topology:
+        899       1292        893        901       1294        895
+
+ ELEMENT          136 with label "CPS3    " and with nodes:
+        111        269        245
+  is expanded into a "C3D6  S " element with topology:
+        764       1238       1166        766       1240       1168
+
+ ELEMENT          137 with label "CPS3    " and with nodes:
+        112        280        279
+  is expanded into a "C3D6  S " element with topology:
+        767       1271       1268        769       1273       1270
+
+ ELEMENT          138 with label "CPS3    " and with nodes:
+        148        149        146
+  is expanded into a "C3D6  S " element with topology:
+        875        878        869        877        880        871
+
+ ELEMENT          139 with label "CPS3    " and with nodes:
+        353        400        387
+  is expanded into a "C3D6  S " element with topology:
+       1490       1631       1592       1492       1633       1594
+
+ ELEMENT          140 with label "CPS3    " and with nodes:
+          1        220        104
+  is expanded into a "C3D6  S " element with topology:
+        434       1091        743        436       1093        745
+
+ ELEMENT          141 with label "CPS3    " and with nodes:
+         35        365        316
+  is expanded into a "C3D6  S " element with topology:
+        536       1526       1379        538       1528       1381
+
+ ELEMENT          142 with label "CPS3    " and with nodes:
+         33        221        113
+  is expanded into a "C3D6  S " element with topology:
+        530       1094        770        532       1096        772
+
+ ELEMENT          143 with label "CPS3    " and with nodes:
+         27        263        105
+  is expanded into a "C3D6  S " element with topology:
+        512       1220        746        514       1222        748
+
+ ELEMENT          144 with label "CPS3    " and with nodes:
+        111        241         23
+  is expanded into a "C3D6  S " element with topology:
+        764       1154        500        766       1156        502
+
+ ELEMENT          145 with label "CPS3    " and with nodes:
+         29        258        110
+  is expanded into a "C3D6  S " element with topology:
+        518       1205        761        520       1207        763
+
+ ELEMENT          146 with label "CPS3    " and with nodes:
+         26        295        263
+  is expanded into a "C3D6  S " element with topology:
+        509       1316       1220        511       1318       1222
+
+ ELEMENT          147 with label "CPS3    " and with nodes:
+        102        295         25
+  is expanded into a "C3D6  S " element with topology:
+        737       1316        506        739       1318        508
+
+ ELEMENT          148 with label "CPS3    " and with nodes:
+        105        258         28
+  is expanded into a "C3D6  S " element with topology:
+        746       1205        515        748       1207        517
+
+ ELEMENT          149 with label "CPS3    " and with nodes:
+        113        365         34
+  is expanded into a "C3D6  S " element with topology:
+        770       1526        533        772       1528        535
+
+ ELEMENT          150 with label "CPS3    " and with nodes:
+         36        316        108
+  is expanded into a "C3D6  S " element with topology:
+        539       1379        755        541       1381        757
+
+ ELEMENT          151 with label "CPS3    " and with nodes:
+        103        262         40
+  is expanded into a "C3D6  S " element with topology:
+        740       1217        551        742       1219        553
+
+ ELEMENT          152 with label "CPS3    " and with nodes:
+         24        241        102
+  is expanded into a "C3D6  S " element with topology:
+        503       1154        737        505       1156        739
+
+ ELEMENT          153 with label "CPS3    " and with nodes:
+        112        221         32
+  is expanded into a "C3D6  S " element with topology:
+        767       1094        527        769       1096        529
+
+ ELEMENT          154 with label "CPS3    " and with nodes:
+         41        262        220
+  is expanded into a "C3D6  S " element with topology:
+        554       1217       1091        556       1219       1093
+
+ ELEMENT          155 with label "CPS3    " and with nodes:
+        209        346        311
+  is expanded into a "C3D6  S " element with topology:
+       1058       1469       1364       1060       1471       1366
+
+ ELEMENT          156 with label "CPS3    " and with nodes:
+        145        214        147
+  is expanded into a "C3D6  S " element with topology:
+        866       1073        872        868       1075        874
+
+ ELEMENT          157 with label "CPS3    " and with nodes:
+        307        368        119
+  is expanded into a "C3D6  S " element with topology:
+       1352       1535        788       1354       1537        790
+
+ ELEMENT          158 with label "CPS3    " and with nodes:
+        183        216        187
+  is expanded into a "C3D6  S " element with topology:
+        980       1079        992        982       1081        994
+
+ ELEMENT          159 with label "CPS3    " and with nodes:
+        240        426        324
+  is expanded into a "C3D6  S " element with topology:
+       1151       1709       1403       1153       1711       1405
+
+ ELEMENT          160 with label "CPS3    " and with nodes:
+        108        316        145
+  is expanded into a "C3D6  S " element with topology:
+        755       1379        866        757       1381        868
+
+ ELEMENT          161 with label "CPS3    " and with nodes:
+        311        346        301
+  is expanded into a "C3D6  S " element with topology:
+       1364       1469       1334       1366       1471       1336
+
+ ELEMENT          162 with label "CPS3    " and with nodes:
+        294        301        293
+  is expanded into a "C3D6  S " element with topology:
+       1313       1334       1310       1315       1336       1312
+
+ ELEMENT          163 with label "CPS3    " and with nodes:
+        301        323        293
+  is expanded into a "C3D6  S " element with topology:
+       1334       1400       1310       1336       1402       1312
+
+ ELEMENT          164 with label "CPS3    " and with nodes:
+        193        246        199
+  is expanded into a "C3D6  S " element with topology:
+       1010       1169       1028       1012       1171       1030
+
+ ELEMENT          165 with label "CPS3    " and with nodes:
+        374        426        238
+  is expanded into a "C3D6  S " element with topology:
+       1553       1709       1145       1555       1711       1147
+
+ ELEMENT          166 with label "CPS3    " and with nodes:
+         91        402         90
+  is expanded into a "C3D6  S " element with topology:
+        704       1637        701        706       1639        703
+
+ ELEMENT          167 with label "CPS3    " and with nodes:
+        371        385        318
+  is expanded into a "C3D6  S " element with topology:
+       1544       1586       1385       1546       1588       1387
+
+ ELEMENT          168 with label "CPS3    " and with nodes:
+        216        383        187
+  is expanded into a "C3D6  S " element with topology:
+       1079       1580        992       1081       1582        994
+
+ ELEMENT          169 with label "CPS3    " and with nodes:
+        162        306        304
+  is expanded into a "C3D6  S " element with topology:
+        917       1349       1343        919       1351       1345
+
+ ELEMENT          170 with label "CPS3    " and with nodes:
+        304        307        303
+  is expanded into a "C3D6  S " element with topology:
+       1343       1352       1340       1345       1354       1342
+
+ ELEMENT          171 with label "CPS3    " and with nodes:
+        172        391        310
+  is expanded into a "C3D6  S " element with topology:
+        947       1604       1361        949       1606       1363
+
+ ELEMENT          172 with label "CPS3    " and with nodes:
+        288        408        124
+  is expanded into a "C3D6  S " element with topology:
+       1295       1655        803       1297       1657        805
+
+ ELEMENT          173 with label "CPS3    " and with nodes:
+        241        245        242
+  is expanded into a "C3D6  S " element with topology:
+       1154       1166       1157       1156       1168       1159
+
+ ELEMENT          174 with label "CPS3    " and with nodes:
+        226        382        291
+  is expanded into a "C3D6  S " element with topology:
+       1109       1577       1304       1111       1579       1306
+
+ ELEMENT          175 with label "CPS3    " and with nodes:
+        208        246        191
+  is expanded into a "C3D6  S " element with topology:
+       1055       1169       1004       1057       1171       1006
+
+ ELEMENT          176 with label "CPS3    " and with nodes:
+        262        284        283
+  is expanded into a "C3D6  S " element with topology:
+       1217       1283       1280       1219       1285       1282
+
+ ELEMENT          177 with label "CPS3    " and with nodes:
+        105        264        259
+  is expanded into a "C3D6  S " element with topology:
+        746       1223       1208        748       1225       1210
+
+ ELEMENT          178 with label "CPS3    " and with nodes:
+        159        287        156
+  is expanded into a "C3D6  S " element with topology:
+        908       1292        899        910       1294        901
+
+ ELEMENT          179 with label "CPS3    " and with nodes:
+         90        402        348
+  is expanded into a "C3D6  S " element with topology:
+        701       1637       1475        703       1639       1477
+
+ ELEMENT          180 with label "CPS3    " and with nodes:
+        130        419        335
+  is expanded into a "C3D6  S " element with topology:
+        821       1688       1436        823       1690       1438
+
+ ELEMENT          181 with label "CPS3    " and with nodes:
+        109        349        322
+  is expanded into a "C3D6  S " element with topology:
+        758       1478       1397        760       1480       1399
+
+ ELEMENT          182 with label "CPS3    " and with nodes:
+        301        346        202
+  is expanded into a "C3D6  S " element with topology:
+       1334       1469       1037       1336       1471       1039
+
+ ELEMENT          183 with label "CPS3    " and with nodes:
+        302        303        169
+  is expanded into a "C3D6  S " element with topology:
+       1337       1340        938       1339       1342        940
+
+ ELEMENT          184 with label "CPS3    " and with nodes:
+        101        411        359
+  is expanded into a "C3D6  S " element with topology:
+        734       1664       1508        736       1666       1510
+
+ ELEMENT          185 with label "CPS3    " and with nodes:
+        139        342        339
+  is expanded into a "C3D6  S " element with topology:
+        848       1457       1448        850       1459       1450
+
+ ELEMENT          186 with label "CPS3    " and with nodes:
+        185        362        182
+  is expanded into a "C3D6  S " element with topology:
+        986       1517        977        988       1519        979
+
+ ELEMENT          187 with label "CPS3    " and with nodes:
+        176        287        167
+  is expanded into a "C3D6  S " element with topology:
+        959       1292        932        961       1294        934
+
+ ELEMENT          188 with label "CPS3    " and with nodes:
+        184        306        151
+  is expanded into a "C3D6  S " element with topology:
+        983       1349        884        985       1351        886
+
+ ELEMENT          189 with label "CPS3    " and with nodes:
+        153        302        155
+  is expanded into a "C3D6  S " element with topology:
+        890       1337        896        892       1339        898
+
+ ELEMENT          190 with label "CPS3    " and with nodes:
+        387        400        234
+  is expanded into a "C3D6  S " element with topology:
+       1592       1631       1133       1594       1633       1135
+
+ ELEMENT          191 with label "CPS3    " and with nodes:
+        178        372        285
+  is expanded into a "C3D6  S " element with topology:
+        965       1547       1286        967       1549       1288
+
+ ELEMENT          192 with label "CPS3    " and with nodes:
+        129        310        309
+  is expanded into a "C3D6  S " element with topology:
+        818       1361       1358        820       1363       1360
+
+ ELEMENT          193 with label "CPS3    " and with nodes:
+        121        350        315
+  is expanded into a "C3D6  S " element with topology:
+        794       1481       1376        796       1483       1378
+
+ ELEMENT          194 with label "CPS3    " and with nodes:
+        122        377        360
+  is expanded into a "C3D6  S " element with topology:
+        797       1562       1511        799       1564       1513
+
+ ELEMENT          195 with label "CPS3    " and with nodes:
+        220        283        282
+  is expanded into a "C3D6  S " element with topology:
+       1091       1280       1277       1093       1282       1279
+
+ ELEMENT          196 with label "CPS3    " and with nodes:
+        342        361        339
+  is expanded into a "C3D6  S " element with topology:
+       1457       1514       1448       1459       1516       1450
+
+ ELEMENT          197 with label "CPS3    " and with nodes:
+        263        264        105
+  is expanded into a "C3D6  S " element with topology:
+       1220       1223        746       1222       1225        748
+
+ ELEMENT          198 with label "CPS3    " and with nodes:
+        241        242        102
+  is expanded into a "C3D6  S " element with topology:
+       1154       1157        737       1156       1159        739
+
+ ELEMENT          199 with label "CPS3    " and with nodes:
+        111        245        241
+  is expanded into a "C3D6  S " element with topology:
+        764       1166       1154        766       1168       1156
+
+ ELEMENT          200 with label "CPS3    " and with nodes:
+        112        279        221
+  is expanded into a "C3D6  S " element with topology:
+        767       1268       1094        769       1270       1096
+
+ ELEMENT          201 with label "CPS3    " and with nodes:
+        262        283        220
+  is expanded into a "C3D6  S " element with topology:
+       1217       1280       1091       1219       1282       1093
+
+ ELEMENT          202 with label "CPS3    " and with nodes:
+        103        284        262
+  is expanded into a "C3D6  S " element with topology:
+        740       1283       1217        742       1285       1219
+
+ ELEMENT          203 with label "CPS3    " and with nodes:
+        113        366        365
+  is expanded into a "C3D6  S " element with topology:
+        770       1529       1526        772       1531       1528
+
+ ELEMENT          204 with label "CPS3    " and with nodes:
+        105        259        258
+  is expanded into a "C3D6  S " element with topology:
+        746       1208       1205        748       1210       1207
+
+ ELEMENT          205 with label "CPS3    " and with nodes:
+        294        311        301
+  is expanded into a "C3D6  S " element with topology:
+       1313       1364       1334       1315       1366       1336
+
+ ELEMENT          206 with label "CPS3    " and with nodes:
+        300        430         15
+  is expanded into a "C3D6  S " element with topology:
+       1331       1721        476       1333       1723        478
+
+ ELEMENT          207 with label "CPS3    " and with nodes:
+        178        431         38
+  is expanded into a "C3D6  S " element with topology:
+        965       1724        545        967       1726        547
+
+ ELEMENT          208 with label "CPS3    " and with nodes:
+         15        430         16
+  is expanded into a "C3D6  S " element with topology:
+        476       1721        479        478       1723        481
+
+ ELEMENT          209 with label "CPS3    " and with nodes:
+         38        431         39
+  is expanded into a "C3D6  S " element with topology:
+        545       1724        548        547       1726        550
+
+ ELEMENT          210 with label "CPS3    " and with nodes:
+        260        267        110
+  is expanded into a "C3D6  S " element with topology:
+       1211       1232        761       1213       1234        763
+
+ ELEMENT          211 with label "CPS3    " and with nodes:
+        304        308        307
+  is expanded into a "C3D6  S " element with topology:
+       1343       1355       1352       1345       1357       1354
+
+ ELEMENT          212 with label "CPS3    " and with nodes:
+        179        393        181
+  is expanded into a "C3D6  S " element with topology:
+        968       1610        974        970       1612        976
+
+ ELEMENT          213 with label "CPS3    " and with nodes:
+        303        305        169
+  is expanded into a "C3D6  S " element with topology:
+       1340       1346        938       1342       1348        940
+
+ ELEMENT          214 with label "CPS3    " and with nodes:
+        317        320        171
+  is expanded into a "C3D6  S " element with topology:
+       1382       1391        944       1384       1393        946
+
+ ELEMENT          215 with label "CPS3    " and with nodes:
+        308        368        307
+  is expanded into a "C3D6  S " element with topology:
+       1355       1535       1352       1357       1537       1354
+
+ ELEMENT          216 with label "CPS3    " and with nodes:
+        186        315        185
+  is expanded into a "C3D6  S " element with topology:
+        989       1376        986        991       1378        988
+
+ ELEMENT          217 with label "CPS3    " and with nodes:
+        171        320        164
+  is expanded into a "C3D6  S " element with topology:
+        944       1391        923        946       1393        925
+
+ ELEMENT          218 with label "CPS3    " and with nodes:
+        299        380        120
+  is expanded into a "C3D6  S " element with topology:
+       1328       1571        791       1330       1573        793
+
+ ELEMENT          219 with label "CPS3    " and with nodes:
+        164        320        157
+  is expanded into a "C3D6  S " element with topology:
+        923       1391        902        925       1393        904
+
+ ELEMENT          220 with label "CPS3    " and with nodes:
+        163        320        317
+  is expanded into a "C3D6  S " element with topology:
+        920       1391       1382        922       1393       1384
+
+ ELEMENT          221 with label "CPS3    " and with nodes:
+        158        320        163
+  is expanded into a "C3D6  S " element with topology:
+        905       1391        920        907       1393        922
+
+ ELEMENT          222 with label "CPS3    " and with nodes:
+        289        321        168
+  is expanded into a "C3D6  S " element with topology:
+       1298       1394        935       1300       1396        937
+
+ ELEMENT          223 with label "CPS3    " and with nodes:
+        168        321        160
+  is expanded into a "C3D6  S " element with topology:
+        935       1394        911        937       1396        913
+
+ ELEMENT          224 with label "CPS3    " and with nodes:
+        170        322        171
+  is expanded into a "C3D6  S " element with topology:
+        941       1397        944        943       1399        946
+
+ ELEMENT          225 with label "CPS3    " and with nodes:
+        166        321        215
+  is expanded into a "C3D6  S " element with topology:
+        929       1394       1076        931       1396       1078
+
+ ELEMENT          226 with label "CPS3    " and with nodes:
+        202        326        323
+  is expanded into a "C3D6  S " element with topology:
+       1037       1409       1400       1039       1411       1402
+
+ ELEMENT          227 with label "CPS3    " and with nodes:
+        192        326        202
+  is expanded into a "C3D6  S " element with topology:
+       1007       1409       1037       1009       1411       1039
+
+ ELEMENT          228 with label "CPS3    " and with nodes:
+        173        324        174
+  is expanded into a "C3D6  S " element with topology:
+        950       1403        953        952       1405        955
+
+ ELEMENT          229 with label "CPS3    " and with nodes:
+        197        337        326
+  is expanded into a "C3D6  S " element with topology:
+       1022       1442       1409       1024       1444       1411
+
+ ELEMENT          230 with label "CPS3    " and with nodes:
+        326        337        323
+  is expanded into a "C3D6  S " element with topology:
+       1409       1442       1400       1411       1444       1402
+
+ ELEMENT          231 with label "CPS3    " and with nodes:
+        197        326        194
+  is expanded into a "C3D6  S " element with topology:
+       1022       1409       1013       1024       1411       1015
+
+ ELEMENT          232 with label "CPS3    " and with nodes:
+        198        325        203
+  is expanded into a "C3D6  S " element with topology:
+       1025       1406       1040       1027       1408       1042
+
+ ELEMENT          233 with label "CPS3    " and with nodes:
+        195        325        198
+  is expanded into a "C3D6  S " element with topology:
+       1016       1406       1025       1018       1408       1027
+
+ ELEMENT          234 with label "CPS3    " and with nodes:
+        213        334        211
+  is expanded into a "C3D6  S " element with topology:
+       1070       1433       1064       1072       1435       1066
+
+ ELEMENT          235 with label "CPS3    " and with nodes:
+        211        334        327
+  is expanded into a "C3D6  S " element with topology:
+       1064       1433       1412       1066       1435       1414
+
+ ELEMENT          236 with label "CPS3    " and with nodes:
+        273        334        213
+  is expanded into a "C3D6  S " element with topology:
+       1250       1433       1070       1252       1435       1072
+
+ ELEMENT          237 with label "CPS3    " and with nodes:
+        327        334        197
+  is expanded into a "C3D6  S " element with topology:
+       1412       1433       1022       1414       1435       1024
+
+ ELEMENT          238 with label "CPS3    " and with nodes:
+        196        327        197
+  is expanded into a "C3D6  S " element with topology:
+       1019       1412       1022       1021       1414       1024
+
+ ELEMENT          239 with label "CPS3    " and with nodes:
+        334        337        197
+  is expanded into a "C3D6  S " element with topology:
+       1433       1442       1022       1435       1444       1024
+
+ ELEMENT          240 with label "CPS3    " and with nodes:
+        211        327        205
+  is expanded into a "C3D6  S " element with topology:
+       1064       1412       1046       1066       1414       1048
+
+ ELEMENT          241 with label "CPS3    " and with nodes:
+        205        327        200
+  is expanded into a "C3D6  S " element with topology:
+       1046       1412       1031       1048       1414       1033
+
+ ELEMENT          242 with label "CPS3    " and with nodes:
+        204        333        207
+  is expanded into a "C3D6  S " element with topology:
+       1043       1430       1052       1045       1432       1054
+
+ ELEMENT          243 with label "CPS3    " and with nodes:
+        328        329        206
+  is expanded into a "C3D6  S " element with topology:
+       1415       1418       1049       1417       1420       1051
+
+ ELEMENT          244 with label "CPS3    " and with nodes:
+        328        332        331
+  is expanded into a "C3D6  S " element with topology:
+       1415       1427       1424       1417       1429       1426
+
+ ELEMENT          245 with label "CPS3    " and with nodes:
+        206        333        204
+  is expanded into a "C3D6  S " element with topology:
+       1049       1430       1043       1051       1432       1045
+
+ ELEMENT          246 with label "CPS3    " and with nodes:
+        201        328        206
+  is expanded into a "C3D6  S " element with topology:
+       1034       1415       1049       1036       1417       1051
+
+ ELEMENT          247 with label "CPS3    " and with nodes:
+        328        331        329
+  is expanded into a "C3D6  S " element with topology:
+       1415       1424       1418       1417       1426       1420
+
+ ELEMENT          248 with label "CPS3    " and with nodes:
+        329        330        206
+  is expanded into a "C3D6  S " element with topology:
+       1418       1421       1049       1420       1423       1051
+
+ ELEMENT          249 with label "CPS3    " and with nodes:
+        330        333        206
+  is expanded into a "C3D6  S " element with topology:
+       1421       1430       1049       1423       1432       1051
+
+ ELEMENT          250 with label "CPS3    " and with nodes:
+        292        293        276
+  is expanded into a "C3D6  S " element with topology:
+       1307       1310       1259       1309       1312       1261
+
+ ELEMENT          251 with label "CPS3    " and with nodes:
+        293        323        276
+  is expanded into a "C3D6  S " element with topology:
+       1310       1400       1259       1312       1402       1261
+
+ ELEMENT          252 with label "CPS3    " and with nodes:
+        275        292        276
+  is expanded into a "C3D6  S " element with topology:
+       1256       1307       1259       1258       1309       1261
+
+ ELEMENT          253 with label "CPS3    " and with nodes:
+        271        274        272
+  is expanded into a "C3D6  S " element with topology:
+       1244       1253       1247       1246       1255       1249
+
+ ELEMENT          254 with label "CPS3    " and with nodes:
+        275        276        273
+  is expanded into a "C3D6  S " element with topology:
+       1256       1259       1250       1258       1261       1252
+
+ ELEMENT          255 with label "CPS3    " and with nodes:
+        272        275        273
+  is expanded into a "C3D6  S " element with topology:
+       1247       1256       1250       1249       1258       1252
+
+ ELEMENT          256 with label "CPS3    " and with nodes:
+        271        272        213
+  is expanded into a "C3D6  S " element with topology:
+       1244       1247       1070       1246       1249       1072
+
+ ELEMENT          257 with label "CPS3    " and with nodes:
+        272        273        213
+  is expanded into a "C3D6  S " element with topology:
+       1247       1250       1070       1249       1252       1072
+
+ ELEMENT          258 with label "CPS3    " and with nodes:
+        274        335        272
+  is expanded into a "C3D6  S " element with topology:
+       1253       1436       1247       1255       1438       1249
+
+ ELEMENT          259 with label "CPS3    " and with nodes:
+        272        335        275
+  is expanded into a "C3D6  S " element with topology:
+       1247       1436       1256       1249       1438       1258
+
+ ELEMENT          260 with label "CPS3    " and with nodes:
+        274        336        335
+  is expanded into a "C3D6  S " element with topology:
+       1253       1439       1436       1255       1441       1438
+
+ ELEMENT          261 with label "CPS3    " and with nodes:
+        212        271        213
+  is expanded into a "C3D6  S " element with topology:
+       1067       1244       1070       1069       1246       1072
+
+ ELEMENT          262 with label "CPS3    " and with nodes:
+        212        213        211
+  is expanded into a "C3D6  S " element with topology:
+       1067       1070       1064       1069       1072       1066
+
+ ELEMENT          263 with label "CPS3    " and with nodes:
+        210        212        211
+  is expanded into a "C3D6  S " element with topology:
+       1061       1067       1064       1063       1069       1066
+
+ ELEMENT          264 with label "CPS3    " and with nodes:
+        210        211        205
+  is expanded into a "C3D6  S " element with topology:
+       1061       1064       1046       1063       1066       1048
+
+ ELEMENT          265 with label "CPS3    " and with nodes:
+        207        210        205
+  is expanded into a "C3D6  S " element with topology:
+       1052       1061       1046       1054       1063       1048
+
+ ELEMENT          266 with label "CPS3    " and with nodes:
+        203        332        328
+  is expanded into a "C3D6  S " element with topology:
+       1040       1427       1415       1042       1429       1417
+
+ ELEMENT          267 with label "CPS3    " and with nodes:
+        204        207        205
+  is expanded into a "C3D6  S " element with topology:
+       1043       1052       1046       1045       1054       1048
+
+ ELEMENT          268 with label "CPS3    " and with nodes:
+        203        328        201
+  is expanded into a "C3D6  S " element with topology:
+       1040       1415       1034       1042       1417       1036
+
+ ELEMENT          269 with label "CPS3    " and with nodes:
+        201        206        204
+  is expanded into a "C3D6  S " element with topology:
+       1034       1049       1043       1036       1051       1045
+
+ ELEMENT          270 with label "CPS3    " and with nodes:
+        204        205        200
+  is expanded into a "C3D6  S " element with topology:
+       1043       1046       1031       1045       1048       1033
+
+ ELEMENT          271 with label "CPS3    " and with nodes:
+        201        204        200
+  is expanded into a "C3D6  S " element with topology:
+       1034       1043       1031       1036       1045       1033
+
+ ELEMENT          272 with label "CPS3    " and with nodes:
+        198        203        201
+  is expanded into a "C3D6  S " element with topology:
+       1025       1040       1034       1027       1042       1036
+
+ ELEMENT          273 with label "CPS3    " and with nodes:
+        200        327        196
+  is expanded into a "C3D6  S " element with topology:
+       1031       1412       1019       1033       1414       1021
+
+ ELEMENT          274 with label "CPS3    " and with nodes:
+        198        201        200
+  is expanded into a "C3D6  S " element with topology:
+       1025       1034       1031       1027       1036       1033
+
+ ELEMENT          275 with label "CPS3    " and with nodes:
+        198        200        196
+  is expanded into a "C3D6  S " element with topology:
+       1025       1031       1019       1027       1033       1021
+
+ ELEMENT          276 with label "CPS3    " and with nodes:
+        273        337        334
+  is expanded into a "C3D6  S " element with topology:
+       1250       1442       1433       1252       1444       1435
+
+ ELEMENT          277 with label "CPS3    " and with nodes:
+        276        337        273
+  is expanded into a "C3D6  S " element with topology:
+       1259       1442       1250       1261       1444       1252
+
+ ELEMENT          278 with label "CPS3    " and with nodes:
+        199        325        195
+  is expanded into a "C3D6  S " element with topology:
+       1028       1406       1016       1030       1408       1018
+
+ ELEMENT          279 with label "CPS3    " and with nodes:
+        196        197        194
+  is expanded into a "C3D6  S " element with topology:
+       1019       1022       1013       1021       1024       1015
+
+ ELEMENT          280 with label "CPS3    " and with nodes:
+        195        198        196
+  is expanded into a "C3D6  S " element with topology:
+       1016       1025       1019       1018       1027       1021
+
+ ELEMENT          281 with label "CPS3    " and with nodes:
+        323        337        276
+  is expanded into a "C3D6  S " element with topology:
+       1400       1442       1259       1402       1444       1261
+
+ ELEMENT          282 with label "CPS3    " and with nodes:
+        298        324        173
+  is expanded into a "C3D6  S " element with topology:
+       1325       1403        950       1327       1405        952
+
+ ELEMENT          283 with label "CPS3    " and with nodes:
+        288        290        289
+  is expanded into a "C3D6  S " element with topology:
+       1295       1301       1298       1297       1303       1300
+
+ ELEMENT          284 with label "CPS3    " and with nodes:
+        193        199        195
+  is expanded into a "C3D6  S " element with topology:
+       1010       1028       1016       1012       1030       1018
+
+ ELEMENT          285 with label "CPS3    " and with nodes:
+        195        196        194
+  is expanded into a "C3D6  S " element with topology:
+       1016       1019       1013       1018       1021       1015
+
+ ELEMENT          286 with label "CPS3    " and with nodes:
+        215        298        173
+  is expanded into a "C3D6  S " element with topology:
+       1076       1325        950       1078       1327        952
+
+ ELEMENT          287 with label "CPS3    " and with nodes:
+        317        318        177
+  is expanded into a "C3D6  S " element with topology:
+       1382       1385        962       1384       1387        964
+
+ ELEMENT          288 with label "CPS3    " and with nodes:
+        288        289        168
+  is expanded into a "C3D6  S " element with topology:
+       1295       1298        935       1297       1300        937
+
+ ELEMENT          289 with label "CPS3    " and with nodes:
+        194        326        192
+  is expanded into a "C3D6  S " element with topology:
+       1013       1409       1007       1015       1411       1009
+
+ ELEMENT          290 with label "CPS3    " and with nodes:
+        193        195        194
+  is expanded into a "C3D6  S " element with topology:
+       1010       1016       1013       1012       1018       1015
+
+ ELEMENT          291 with label "CPS3    " and with nodes:
+        277        322        170
+  is expanded into a "C3D6  S " element with topology:
+       1262       1397        941       1264       1399        943
+
+ ELEMENT          292 with label "CPS3    " and with nodes:
+        177        288        168
+  is expanded into a "C3D6  S " element with topology:
+        962       1295        935        964       1297        937
+
+ ELEMENT          293 with label "CPS3    " and with nodes:
+        166        215        173
+  is expanded into a "C3D6  S " element with topology:
+        929       1076        950        931       1078        952
+
+ ELEMENT          294 with label "CPS3    " and with nodes:
+        173        174        167
+  is expanded into a "C3D6  S " element with topology:
+        950        953        932        952        955        934
+
+ ELEMENT          295 with label "CPS3    " and with nodes:
+        172        278        277
+  is expanded into a "C3D6  S " element with topology:
+        947       1265       1262        949       1267       1264
+
+ ELEMENT          296 with label "CPS3    " and with nodes:
+        163        317        177
+  is expanded into a "C3D6  S " element with topology:
+        920       1382        962        922       1384        964
+
+ ELEMENT          297 with label "CPS3    " and with nodes:
+        193        194        192
+  is expanded into a "C3D6  S " element with topology:
+       1010       1013       1007       1012       1015       1009
+
+ ELEMENT          298 with label "CPS3    " and with nodes:
+        163        177        168
+  is expanded into a "C3D6  S " element with topology:
+        920        962        935        922        964        937
+
+ ELEMENT          299 with label "CPS3    " and with nodes:
+        172        277        170
+  is expanded into a "C3D6  S " element with topology:
+        947       1262        941        949       1264        943
+
+ ELEMENT          300 with label "CPS3    " and with nodes:
+        166        173        167
+  is expanded into a "C3D6  S " element with topology:
+        929        950        932        931        952        934
+
+ ELEMENT          301 with label "CPS3    " and with nodes:
+        191        193        192
+  is expanded into a "C3D6  S " element with topology:
+       1004       1010       1007       1006       1012       1009
+
+ ELEMENT          302 with label "CPS3    " and with nodes:
+        192        202        190
+  is expanded into a "C3D6  S " element with topology:
+       1007       1037       1001       1009       1039       1003
+
+ ELEMENT          303 with label "CPS3    " and with nodes:
+        165        172        170
+  is expanded into a "C3D6  S " element with topology:
+        926        947        941        928        949        943
+
+ ELEMENT          304 with label "CPS3    " and with nodes:
+        163        168        160
+  is expanded into a "C3D6  S " element with topology:
+        920        935        911        922        937        913
+
+ ELEMENT          305 with label "CPS3    " and with nodes:
+        170        171        164
+  is expanded into a "C3D6  S " element with topology:
+        941        944        923        943        946        925
+
+ ELEMENT          306 with label "CPS3    " and with nodes:
+        160        321        166
+  is expanded into a "C3D6  S " element with topology:
+        911       1394        929        913       1396        931
+
+ ELEMENT          307 with label "CPS3    " and with nodes:
+        166        167        159
+  is expanded into a "C3D6  S " element with topology:
+        929        932        908        931        934        910
+
+ ELEMENT          308 with label "CPS3    " and with nodes:
+        191        192        190
+  is expanded into a "C3D6  S " element with topology:
+       1004       1007       1001       1006       1009       1003
+
+ ELEMENT          309 with label "CPS3    " and with nodes:
+        161        169        165
+  is expanded into a "C3D6  S " element with topology:
+        914        938        926        916        940        928
+
+ ELEMENT          310 with label "CPS3    " and with nodes:
+        158        163        160
+  is expanded into a "C3D6  S " element with topology:
+        905        920        911        907        922        913
+
+ ELEMENT          311 with label "CPS3    " and with nodes:
+        160        166        159
+  is expanded into a "C3D6  S " element with topology:
+        911        929        908        913        931        910
+
+ ELEMENT          312 with label "CPS3    " and with nodes:
+        165        170        164
+  is expanded into a "C3D6  S " element with topology:
+        926        941        923        928        943        925
+
+ ELEMENT          313 with label "CPS3    " and with nodes:
+        189        191        190
+  is expanded into a "C3D6  S " element with topology:
+        998       1004       1001       1000       1006       1003
+
+ ELEMENT          314 with label "CPS3    " and with nodes:
+        161        165        164
+  is expanded into a "C3D6  S " element with topology:
+        914        926        923        916        928        925
+
+ ELEMENT          315 with label "CPS3    " and with nodes:
+        158        160        159
+  is expanded into a "C3D6  S " element with topology:
+        905        911        908        907        913        910
+
+ ELEMENT          316 with label "CPS3    " and with nodes:
+        209        315        186
+  is expanded into a "C3D6  S " element with topology:
+       1058       1376        989       1060       1378        991
+
+ ELEMENT          317 with label "CPS3    " and with nodes:
+        189        190        188
+  is expanded into a "C3D6  S " element with topology:
+        998       1001        995       1000       1003        997
+
+ ELEMENT          318 with label "CPS3    " and with nodes:
+        220        282        104
+  is expanded into a "C3D6  S " element with topology:
+       1091       1277        743       1093       1279        745
+
+ ELEMENT          319 with label "CPS3    " and with nodes:
+        228        404        232
+  is expanded into a "C3D6  S " element with topology:
+       1115       1643       1127       1117       1645       1129
+
+ ELEMENT          320 with label "CPS3    " and with nodes:
+        161        164        157
+  is expanded into a "C3D6  S " element with topology:
+        914        923        902        916        925        904
+
+ ELEMENT          321 with label "CPS3    " and with nodes:
+        158        159        156
+  is expanded into a "C3D6  S " element with topology:
+        905        908        899        907        910        901
+
+ ELEMENT          322 with label "CPS3    " and with nodes:
+        157        320        158
+  is expanded into a "C3D6  S " element with topology:
+        902       1391        905        904       1393        907
+
+ ELEMENT          323 with label "CPS3    " and with nodes:
+        188        209        186
+  is expanded into a "C3D6  S " element with topology:
+        995       1058        989        997       1060        991
+
+ ELEMENT          324 with label "CPS3    " and with nodes:
+        187        189        188
+  is expanded into a "C3D6  S " element with topology:
+        992        998        995        994       1000        997
+
+ ELEMENT          325 with label "CPS3    " and with nodes:
+        157        158        156
+  is expanded into a "C3D6  S " element with topology:
+        902        905        899        904        907        901
+
+ ELEMENT          326 with label "CPS3    " and with nodes:
+        155        161        157
+  is expanded into a "C3D6  S " element with topology:
+        896        914        902        898        916        904
+
+ ELEMENT          327 with label "CPS3    " and with nodes:
+        187        188        186
+  is expanded into a "C3D6  S " element with topology:
+        992        995        989        994        997        991
+
+ ELEMENT          328 with label "CPS3    " and with nodes:
+        329        338        330
+  is expanded into a "C3D6  S " element with topology:
+       1418       1445       1421       1420       1447       1423
+
+ ELEMENT          329 with label "CPS3    " and with nodes:
+        322        349        171
+  is expanded into a "C3D6  S " element with topology:
+       1397       1478        944       1399       1480        946
+
+ ELEMENT          330 with label "CPS3    " and with nodes:
+        338        339        330
+  is expanded into a "C3D6  S " element with topology:
+       1445       1448       1421       1447       1450       1423
+
+ ELEMENT          331 with label "CPS3    " and with nodes:
+        317        349        318
+  is expanded into a "C3D6  S " element with topology:
+       1382       1478       1385       1384       1480       1387
+
+ ELEMENT          332 with label "CPS3    " and with nodes:
+        155        157        156
+  is expanded into a "C3D6  S " element with topology:
+        896        902        899        898        904        901
+
+ ELEMENT          333 with label "CPS3    " and with nodes:
+        183        187        186
+  is expanded into a "C3D6  S " element with topology:
+        980        992        989        982        994        991
+
+ ELEMENT          334 with label "CPS3    " and with nodes:
+        188        346        209
+  is expanded into a "C3D6  S " element with topology:
+        995       1469       1058        997       1471       1060
+
+ ELEMENT          335 with label "CPS3    " and with nodes:
+        202        346        190
+  is expanded into a "C3D6  S " element with topology:
+       1037       1469       1001       1039       1471       1003
+
+ ELEMENT          336 with label "CPS3    " and with nodes:
+        352        360        184
+  is expanded into a "C3D6  S " element with topology:
+       1487       1511        983       1489       1513        985
+
+ ELEMENT          337 with label "CPS3    " and with nodes:
+        171        349        317
+  is expanded into a "C3D6  S " element with topology:
+        944       1478       1382        946       1480       1384
+
+ ELEMENT          338 with label "CPS3    " and with nodes:
+        190        346        188
+  is expanded into a "C3D6  S " element with topology:
+       1001       1469        995       1003       1471        997
+
+ ELEMENT          339 with label "CPS3    " and with nodes:
+         63        139         62
+  is expanded into a "C3D6  S " element with topology:
+        620        848        617        622        850        619
+
+ ELEMENT          340 with label "CPS3    " and with nodes:
+         75        345         74
+  is expanded into a "C3D6  S " element with topology:
+        656       1466        653        658       1468        655
+
+ ELEMENT          341 with label "CPS3    " and with nodes:
+         80        343         79
+  is expanded into a "C3D6  S " element with topology:
+        671       1460        668        673       1462        670
+
+ ELEMENT          342 with label "CPS3    " and with nodes:
+         74        136         73
+  is expanded into a "C3D6  S " element with topology:
+        653        839        650        655        841        652
+
+ ELEMENT          343 with label "CPS3    " and with nodes:
+         76        109         75
+  is expanded into a "C3D6  S " element with topology:
+        659        758        656        661        760        658
+
+ ELEMENT          344 with label "CPS3    " and with nodes:
+         79        124         78
+  is expanded into a "C3D6  S " element with topology:
+        668        803        665        670        805        667
+
+ ELEMENT          345 with label "CPS3    " and with nodes:
+         65        126         64
+  is expanded into a "C3D6  S " element with topology:
+        626        809        623        628        811        625
+
+ ELEMENT          346 with label "CPS3    " and with nodes:
+         71        140         70
+  is expanded into a "C3D6  S " element with topology:
+        644        851        641        646        853        643
+
+ ELEMENT          347 with label "CPS3    " and with nodes:
+         64        342         63
+  is expanded into a "C3D6  S " element with topology:
+        623       1457        620        625       1459        622
+
+ ELEMENT          348 with label "CPS3    " and with nodes:
+         67        106         66
+  is expanded into a "C3D6  S " element with topology:
+        632        749        629        634        751        631
+
+ ELEMENT          349 with label "CPS3    " and with nodes:
+         69        127         68
+  is expanded into a "C3D6  S " element with topology:
+        638        812        635        640        814        637
+
+ ELEMENT          350 with label "CPS3    " and with nodes:
+         70        341         69
+  is expanded into a "C3D6  S " element with topology:
+        641       1454        638        643       1456        640
+
+ ELEMENT          351 with label "CPS3    " and with nodes:
+         68        340         67
+  is expanded into a "C3D6  S " element with topology:
+        635       1451        632        637       1453        634
+
+ ELEMENT          352 with label "CPS3    " and with nodes:
+         66        344         65
+  is expanded into a "C3D6  S " element with topology:
+        629       1463        626        631       1465        628
+
+ ELEMENT          353 with label "CPS3    " and with nodes:
+         81        142         80
+  is expanded into a "C3D6  S " element with topology:
+        674        857        671        676        859        673
+
+ ELEMENT          354 with label "CPS3    " and with nodes:
+        155        156        154
+  is expanded into a "C3D6  S " element with topology:
+        896        899        893        898        901        895
+
+ ELEMENT          355 with label "CPS3    " and with nodes:
+        183        186        185
+  is expanded into a "C3D6  S " element with topology:
+        980        989        986        982        991        988
+
+ ELEMENT          356 with label "CPS3    " and with nodes:
+        147        179        151
+  is expanded into a "C3D6  S " element with topology:
+        872        968        884        874        970        886
+
+ ELEMENT          357 with label "CPS3    " and with nodes:
+        338        392        359
+  is expanded into a "C3D6  S " element with topology:
+       1445       1607       1508       1447       1609       1510
+
+ ELEMENT          358 with label "CPS3    " and with nodes:
+         84        135         83
+  is expanded into a "C3D6  S " element with topology:
+        683        836        680        685        838        682
+
+ ELEMENT          359 with label "CPS3    " and with nodes:
+         86        120         85
+  is expanded into a "C3D6  S " element with topology:
+        689        791        686        691        793        688
+
+ ELEMENT          360 with label "CPS3    " and with nodes:
+         90        138         89
+  is expanded into a "C3D6  S " element with topology:
+        701        845        698        703        847        700
+
+ ELEMENT          361 with label "CPS3    " and with nodes:
+         95        125         94
+  is expanded into a "C3D6  S " element with topology:
+        716        806        713        718        808        715
+
+ ELEMENT          362 with label "CPS3    " and with nodes:
+         99        128         98
+  is expanded into a "C3D6  S " element with topology:
+        728        815        725        730        817        727
+
+ ELEMENT          363 with label "CPS3    " and with nodes:
+         51        350         50
+  is expanded into a "C3D6  S " element with topology:
+        584       1481        581        586       1483        583
+
+ ELEMENT          364 with label "CPS3    " and with nodes:
+         88        132         87
+  is expanded into a "C3D6  S " element with topology:
+        695        827        692        697        829        694
+
+ ELEMENT          365 with label "CPS3    " and with nodes:
+         93        137         92
+  is expanded into a "C3D6  S " element with topology:
+        710        842        707        712        844        709
+
+ ELEMENT          366 with label "CPS3    " and with nodes:
+         97        118         96
+  is expanded into a "C3D6  S " element with topology:
+        722        785        719        724        787        721
+
+ ELEMENT          367 with label "CPS3    " and with nodes:
+         47        107         46
+  is expanded into a "C3D6  S " element with topology:
+        572        752        569        574        754        571
+
+ ELEMENT          368 with label "CPS3    " and with nodes:
+         52        123         51
+  is expanded into a "C3D6  S " element with topology:
+        587        800        584        589        802        586
+
+ ELEMENT          369 with label "CPS3    " and with nodes:
+         57        119         56
+  is expanded into a "C3D6  S " element with topology:
+        602        788        599        604        790        601
+
+ ELEMENT          370 with label "CPS3    " and with nodes:
+         59        129         58
+  is expanded into a "C3D6  S " element with topology:
+        608        818        605        610        820        607
+
+ ELEMENT          371 with label "CPS3    " and with nodes:
+         61        141         60
+  is expanded into a "C3D6  S " element with topology:
+        614        854        611        616        856        613
+
+ ELEMENT          372 with label "CPS3    " and with nodes:
+         45        130         44
+  is expanded into a "C3D6  S " element with topology:
+        566        821        563        568        823        565
+
+ ELEMENT          373 with label "CPS3    " and with nodes:
+         50        121         49
+  is expanded into a "C3D6  S " element with topology:
+        581        794        578        583        796        580
+
+ ELEMENT          374 with label "CPS3    " and with nodes:
+         53        351         52
+  is expanded into a "C3D6  S " element with topology:
+        590       1484        587        592       1486        589
+
+ ELEMENT          375 with label "CPS3    " and with nodes:
+         96        353         95
+  is expanded into a "C3D6  S " element with topology:
+        719       1490        716        721       1492        718
+
+ ELEMENT          376 with label "CPS3    " and with nodes:
+         49        354         48
+  is expanded into a "C3D6  S " element with topology:
+        578       1493        575        580       1495        577
+
+ ELEMENT          377 with label "CPS3    " and with nodes:
+         89        355         88
+  is expanded into a "C3D6  S " element with topology:
+        698       1496        695        700       1498        697
+
+ ELEMENT          378 with label "CPS3    " and with nodes:
+         94        356         93
+  is expanded into a "C3D6  S " element with topology:
+        713       1499        710        715       1501        712
+
+ ELEMENT          379 with label "CPS3    " and with nodes:
+         54        122         53
+  is expanded into a "C3D6  S " element with topology:
+        593        797        590        595        799        592
+
+ ELEMENT          380 with label "CPS3    " and with nodes:
+         60        357         59
+  is expanded into a "C3D6  S " element with topology:
+        611       1502        608        613       1504        610
+
+ ELEMENT          381 with label "CPS3    " and with nodes:
+        237        270        115
+  is expanded into a "C3D6  S " element with topology:
+       1142       1241        776       1144       1243        778
+
+ ELEMENT          382 with label "CPS3    " and with nodes:
+        232        234        233
+  is expanded into a "C3D6  S " element with topology:
+       1127       1133       1130       1129       1135       1132
+
+ ELEMENT          383 with label "CPS3    " and with nodes:
+        336        378        335
+  is expanded into a "C3D6  S " element with topology:
+       1439       1565       1436       1441       1567       1438
+
+ ELEMENT          384 with label "CPS3    " and with nodes:
+         79        343        124
+  is expanded into a "C3D6  S " element with topology:
+        668       1460        803        670       1462        805
+
+ ELEMENT          385 with label "CPS3    " and with nodes:
+         74        345        136
+  is expanded into a "C3D6  S " element with topology:
+        653       1466        839        655       1468        841
+
+ ELEMENT          386 with label "CPS3    " and with nodes:
+        109        345         75
+  is expanded into a "C3D6  S " element with topology:
+        758       1466        656        760       1468        658
+
+ ELEMENT          387 with label "CPS3    " and with nodes:
+        126        342         64
+  is expanded into a "C3D6  S " element with topology:
+        809       1457        623        811       1459        625
+
+ ELEMENT          388 with label "CPS3    " and with nodes:
+         69        341        127
+  is expanded into a "C3D6  S " element with topology:
+        638       1454        812        640       1456        814
+
+ ELEMENT          389 with label "CPS3    " and with nodes:
+        127        340         68
+  is expanded into a "C3D6  S " element with topology:
+        812       1451        635        814       1453        637
+
+ ELEMENT          390 with label "CPS3    " and with nodes:
+         65        344        126
+  is expanded into a "C3D6  S " element with topology:
+        626       1463        809        628       1465        811
+
+ ELEMENT          391 with label "CPS3    " and with nodes:
+        140        341         70
+  is expanded into a "C3D6  S " element with topology:
+        851       1454        641        853       1456        643
+
+ ELEMENT          392 with label "CPS3    " and with nodes:
+         67        340        106
+  is expanded into a "C3D6  S " element with topology:
+        632       1451        749        634       1453        751
+
+ ELEMENT          393 with label "CPS3    " and with nodes:
+         63        342        139
+  is expanded into a "C3D6  S " element with topology:
+        620       1457        848        622       1459        850
+
+ ELEMENT          394 with label "CPS3    " and with nodes:
+        106        344         66
+  is expanded into a "C3D6  S " element with topology:
+        749       1463        629        751       1465        631
+
+ ELEMENT          395 with label "CPS3    " and with nodes:
+        142        343         80
+  is expanded into a "C3D6  S " element with topology:
+        857       1460        671        859       1462        673
+
+ ELEMENT          396 with label "CPS3    " and with nodes:
+        297        313        131
+  is expanded into a "C3D6  S " element with topology:
+       1322       1370        824       1324       1372        826
+
+ ELEMENT          397 with label "CPS3    " and with nodes:
+         13        134         14
+  is expanded into a "C3D6  S " element with topology:
+        470        833        473        472        835        475
+
+ ELEMENT          398 with label "CPS3    " and with nodes:
+         34        365         35
+  is expanded into a "C3D6  S " element with topology:
+        533       1526        536        535       1528        538
+
+ ELEMENT          399 with label "CPS3    " and with nodes:
+         29        110         30
+  is expanded into a "C3D6  S " element with topology:
+        518        761        521        520        763        523
+
+ ELEMENT          400 with label "CPS3    " and with nodes:
+         31        112         32
+  is expanded into a "C3D6  S " element with topology:
+        524        767        527        526        769        529
+
+ ELEMENT          401 with label "CPS3    " and with nodes:
+         23        241         24
+  is expanded into a "C3D6  S " element with topology:
+        500       1154        503        502       1156        505
+
+ ELEMENT          402 with label "CPS3    " and with nodes:
+         11        131         12
+  is expanded into a "C3D6  S " element with topology:
+        464        824        467        466        826        469
+
+ ELEMENT          403 with label "CPS3    " and with nodes:
+         18        117         19
+  is expanded into a "C3D6  S " element with topology:
+        485        782        488        487        784        490
+
+ ELEMENT          404 with label "CPS3    " and with nodes:
+         32        221         33
+  is expanded into a "C3D6  S " element with topology:
+        527       1094        530        529       1096        532
+
+ ELEMENT          405 with label "CPS3    " and with nodes:
+         41        220          1
+  is expanded into a "C3D6  S " element with topology:
+        554       1091        434        556       1093        436
+
+ ELEMENT          406 with label "CPS3    " and with nodes:
+         16        133         17
+  is expanded into a "C3D6  S " element with topology:
+        479        830        482        481        832        484
+
+ ELEMENT          407 with label "CPS3    " and with nodes:
+         22        111         23
+  is expanded into a "C3D6  S " element with topology:
+        497        764        500        499        766        502
+
+ ELEMENT          408 with label "CPS3    " and with nodes:
+          7        114          8
+  is expanded into a "C3D6  S " element with topology:
+        452        773        455        454        775        457
+
+ ELEMENT          409 with label "CPS3    " and with nodes:
+         24        102         25
+  is expanded into a "C3D6  S " element with topology:
+        503        737        506        505        739        508
+
+ ELEMENT          410 with label "CPS3    " and with nodes:
+         26        263         27
+  is expanded into a "C3D6  S " element with topology:
+        509       1220        512        511       1222        514
+
+ ELEMENT          411 with label "CPS3    " and with nodes:
+          1        104          6
+  is expanded into a "C3D6  S " element with topology:
+        434        743        449        436        745        451
+
+ ELEMENT          412 with label "CPS3    " and with nodes:
+         27        105         28
+  is expanded into a "C3D6  S " element with topology:
+        512        746        515        514        748        517
+
+ ELEMENT          413 with label "CPS3    " and with nodes:
+          9        115         10
+  is expanded into a "C3D6  S " element with topology:
+        458        776        461        460        778        463
+
+ ELEMENT          414 with label "CPS3    " and with nodes:
+         33        113         34
+  is expanded into a "C3D6  S " element with topology:
+        530        770        533        532        772        535
+
+ ELEMENT          415 with label "CPS3    " and with nodes:
+         28        258         29
+  is expanded into a "C3D6  S " element with topology:
+        515       1205        518        517       1207        520
+
+ ELEMENT          416 with label "CPS3    " and with nodes:
+         40        262         41
+  is expanded into a "C3D6  S " element with topology:
+        551       1217        554        553       1219        556
+
+ ELEMENT          417 with label "CPS3    " and with nodes:
+         25        295         26
+  is expanded into a "C3D6  S " element with topology:
+        506       1316        509        508       1318        511
+
+ ELEMENT          418 with label "CPS3    " and with nodes:
+         20        116         21
+  is expanded into a "C3D6  S " element with topology:
+        491        779        494        493        781        496
+
+ ELEMENT          419 with label "CPS3    " and with nodes:
+         39        103         40
+  is expanded into a "C3D6  S " element with topology:
+        548        740        551        550        742        553
+
+ ELEMENT          420 with label "CPS3    " and with nodes:
+         35        316         36
+  is expanded into a "C3D6  S " element with topology:
+        536       1379        539        538       1381        541
+
+ ELEMENT          421 with label "CPS3    " and with nodes:
+         36        108         37
+  is expanded into a "C3D6  S " element with topology:
+        539        755        542        541        757        544
+
+ ELEMENT          422 with label "CPS3    " and with nodes:
+        224        268        116
+  is expanded into a "C3D6  S " element with topology:
+       1103       1235        779       1105       1237        781
+
+ ELEMENT          423 with label "CPS3    " and with nodes:
+        378        386         43
+  is expanded into a "C3D6  S " element with topology:
+       1565       1589        560       1567       1591        562
+
+ ELEMENT          424 with label "CPS3    " and with nodes:
+        162        302        153
+  is expanded into a "C3D6  S " element with topology:
+        917       1337        890        919       1339        892
+
+ ELEMENT          425 with label "CPS3    " and with nodes:
+        363        410        141
+  is expanded into a "C3D6  S " element with topology:
+       1520       1661        854       1522       1663        856
+
+ ELEMENT          426 with label "CPS3    " and with nodes:
+        219        235        114
+  is expanded into a "C3D6  S " element with topology:
+       1088       1136        773       1090       1138        775
+
+ ELEMENT          427 with label "CPS3    " and with nodes:
+        122        352        351
+  is expanded into a "C3D6  S " element with topology:
+        797       1487       1484        799       1489       1486
+
+ ELEMENT          428 with label "CPS3    " and with nodes:
+        410        425        141
+  is expanded into a "C3D6  S " element with topology:
+       1661       1706        854       1663       1708        856
+
+ ELEMENT          429 with label "CPS3    " and with nodes:
+        131        313         12
+  is expanded into a "C3D6  S " element with topology:
+        824       1370        467        826       1372        469
+
+ ELEMENT          430 with label "CPS3    " and with nodes:
+        116        268         21
+  is expanded into a "C3D6  S " element with topology:
+        779       1235        494        781       1237        496
+
+ ELEMENT          431 with label "CPS3    " and with nodes:
+        134        247         14
+  is expanded into a "C3D6  S " element with topology:
+        833       1172        473        835       1174        475
+
+ ELEMENT          432 with label "CPS3    " and with nodes:
+        117        222         19
+  is expanded into a "C3D6  S " element with topology:
+        782       1097        488        784       1099        490
+
+ ELEMENT          433 with label "CPS3    " and with nodes:
+        110        266         30
+  is expanded into a "C3D6  S " element with topology:
+        761       1229        521        763       1231        523
+
+ ELEMENT          434 with label "CPS3    " and with nodes:
+        104        217          6
+  is expanded into a "C3D6  S " element with topology:
+        743       1082        449        745       1084        451
+
+ ELEMENT          435 with label "CPS3    " and with nodes:
+        133        253         17
+  is expanded into a "C3D6  S " element with topology:
+        830       1190        482        832       1192        484
+
+ ELEMENT          436 with label "CPS3    " and with nodes:
+        115        270         10
+  is expanded into a "C3D6  S " element with topology:
+        776       1241        461        778       1243        463
+
+ ELEMENT          437 with label "CPS3    " and with nodes:
+        114        235          8
+  is expanded into a "C3D6  S " element with topology:
+        773       1136        455        775       1138        457
+
+ ELEMENT          438 with label "CPS3    " and with nodes:
+        108        143         37
+  is expanded into a "C3D6  S " element with topology:
+        755        860        542        757        862        544
+
+ ELEMENT          439 with label "CPS3    " and with nodes:
+        126        361        342
+  is expanded into a "C3D6  S " element with topology:
+        809       1514       1457        811       1516       1459
+
+ ELEMENT          440 with label "CPS3    " and with nodes:
+        339        361        330
+  is expanded into a "C3D6  S " element with topology:
+       1448       1514       1421       1450       1516       1423
+
+ ELEMENT          441 with label "CPS3    " and with nodes:
+        123        350         51
+  is expanded into a "C3D6  S " element with topology:
+        800       1481        584        802       1483        586
+
+ ELEMENT          442 with label "CPS3    " and with nodes:
+        138        355         89
+  is expanded into a "C3D6  S " element with topology:
+        845       1496        698        847       1498        700
+
+ ELEMENT          443 with label "CPS3    " and with nodes:
+         88        355        132
+  is expanded into a "C3D6  S " element with topology:
+        695       1496        827        697       1498        829
+
+ ELEMENT          444 with label "CPS3    " and with nodes:
+         93        356        137
+  is expanded into a "C3D6  S " element with topology:
+        710       1499        842        712       1501        844
+
+ ELEMENT          445 with label "CPS3    " and with nodes:
+         95        353        125
+  is expanded into a "C3D6  S " element with topology:
+        716       1490        806        718       1492        808
+
+ ELEMENT          446 with label "CPS3    " and with nodes:
+        122        351         53
+  is expanded into a "C3D6  S " element with topology:
+        797       1484        590        799       1486        592
+
+ ELEMENT          447 with label "CPS3    " and with nodes:
+        121        354         49
+  is expanded into a "C3D6  S " element with topology:
+        794       1493        578        796       1495        580
+
+ ELEMENT          448 with label "CPS3    " and with nodes:
+         52        351        123
+  is expanded into a "C3D6  S " element with topology:
+        587       1484        800        589       1486        802
+
+ ELEMENT          449 with label "CPS3    " and with nodes:
+        125        356         94
+  is expanded into a "C3D6  S " element with topology:
+        806       1499        713        808       1501        715
+
+ ELEMENT          450 with label "CPS3    " and with nodes:
+        118        353         96
+  is expanded into a "C3D6  S " element with topology:
+        785       1490        719        787       1492        721
+
+ ELEMENT          451 with label "CPS3    " and with nodes:
+         50        350        121
+  is expanded into a "C3D6  S " element with topology:
+        581       1481        794        583       1483        796
+
+ ELEMENT          452 with label "CPS3    " and with nodes:
+        141        357         60
+  is expanded into a "C3D6  S " element with topology:
+        854       1502        611        856       1504        613
+
+ ELEMENT          453 with label "CPS3    " and with nodes:
+         59        357        129
+  is expanded into a "C3D6  S " element with topology:
+        608       1502        818        610       1504        820
+
+ ELEMENT          454 with label "CPS3    " and with nodes:
+        120        381        298
+  is expanded into a "C3D6  S " element with topology:
+        791       1574       1325        793       1576       1327
+
+ ELEMENT          455 with label "CPS3    " and with nodes:
+        360        377        308
+  is expanded into a "C3D6  S " element with topology:
+       1511       1562       1355       1513       1564       1357
+
+ ELEMENT          456 with label "CPS3    " and with nodes:
+        230        231        227
+  is expanded into a "C3D6  S " element with topology:
+       1121       1124       1112       1123       1126       1114
+
+ ELEMENT          457 with label "CPS3    " and with nodes:
+        339        359        139
+  is expanded into a "C3D6  S " element with topology:
+       1448       1508        848       1450       1510        850
+
+ ELEMENT          458 with label "CPS3    " and with nodes:
+        382        422        117
+  is expanded into a "C3D6  S " element with topology:
+       1577       1697        782       1579       1699        784
+
+ ELEMENT          459 with label "CPS3    " and with nodes:
+        208        367        246
+  is expanded into a "C3D6  S " element with topology:
+       1055       1532       1169       1057       1534       1171
+
+ ELEMENT          460 with label "CPS3    " and with nodes:
+        256        430        300
+  is expanded into a "C3D6  S " element with topology:
+       1199       1721       1331       1201       1723       1333
+
+ ELEMENT          461 with label "CPS3    " and with nodes:
+        249        300        247
+  is expanded into a "C3D6  S " element with topology:
+       1178       1331       1172       1180       1333       1174
+
+ ELEMENT          462 with label "CPS3    " and with nodes:
+        167        287        159
+  is expanded into a "C3D6  S " element with topology:
+        932       1292        908        934       1294        910
+
+ ELEMENT          463 with label "CPS3    " and with nodes:
+        151        306        148
+  is expanded into a "C3D6  S " element with topology:
+        884       1349        875        886       1351        877
+
+ ELEMENT          464 with label "CPS3    " and with nodes:
+        227        417        269
+  is expanded into a "C3D6  S " element with topology:
+       1112       1682       1238       1114       1684       1240
+
+ ELEMENT          465 with label "CPS3    " and with nodes:
+        126        369        361
+  is expanded into a "C3D6  S " element with topology:
+        809       1538       1514        811       1540       1516
+
+ ELEMENT          466 with label "CPS3    " and with nodes:
+         73        363         72
+  is expanded into a "C3D6  S " element with topology:
+        650       1520        647        652       1522        649
+
+ ELEMENT          467 with label "CPS3    " and with nodes:
+        290        384        289
+  is expanded into a "C3D6  S " element with topology:
+       1301       1583       1298       1303       1585       1300
+
+ ELEMENT          468 with label "CPS3    " and with nodes:
+        229        404        228
+  is expanded into a "C3D6  S " element with topology:
+       1118       1643       1115       1120       1645       1117
+
+ ELEMENT          469 with label "CPS3    " and with nodes:
+        185        418        362
+  is expanded into a "C3D6  S " element with topology:
+        986       1685       1517        988       1687       1519
+
+ ELEMENT          470 with label "CPS3    " and with nodes:
+         83        364         82
+  is expanded into a "C3D6  S " element with topology:
+        680       1523        677        682       1525        679
+
+ ELEMENT          471 with label "CPS3    " and with nodes:
+        140        386        336
+  is expanded into a "C3D6  S " element with topology:
+        851       1589       1439        853       1591       1441
+
+ ELEMENT          472 with label "CPS3    " and with nodes:
+        297        314        250
+  is expanded into a "C3D6  S " element with topology:
+       1322       1373       1181       1324       1375       1183
+
+ ELEMENT          473 with label "CPS3    " and with nodes:
+        352        362        351
+  is expanded into a "C3D6  S " element with topology:
+       1487       1517       1484       1489       1519       1486
+
+ ELEMENT          474 with label "CPS3    " and with nodes:
+        153        155        154
+  is expanded into a "C3D6  S " element with topology:
+        890        896        893        892        898        895
+
+ ELEMENT          475 with label "CPS3    " and with nodes:
+        191        246        193
+  is expanded into a "C3D6  S " element with topology:
+       1004       1169       1010       1006       1171       1012
+
+ ELEMENT          476 with label "CPS3    " and with nodes:
+        183        185        182
+  is expanded into a "C3D6  S " element with topology:
+        980        986        977        982        988        979
+
+ ELEMENT          477 with label "CPS3    " and with nodes:
+        122        360        352
+  is expanded into a "C3D6  S " element with topology:
+        797       1511       1487        799       1513       1489
+
+ ELEMENT          478 with label "CPS3    " and with nodes:
+        243        423        295
+  is expanded into a "C3D6  S " element with topology:
+       1160       1700       1316       1162       1702       1318
+
+ ELEMENT          479 with label "CPS3    " and with nodes:
+        330        361        333
+  is expanded into a "C3D6  S " element with topology:
+       1421       1514       1430       1423       1516       1432
+
+ ELEMENT          480 with label "CPS3    " and with nodes:
+        295        423        265
+  is expanded into a "C3D6  S " element with topology:
+       1316       1700       1226       1318       1702       1228
+
+ ELEMENT          481 with label "CPS3    " and with nodes:
+        364        409        142
+  is expanded into a "C3D6  S " element with topology:
+       1523       1658        857       1525       1660        859
+
+ ELEMENT          482 with label "CPS3    " and with nodes:
+        181        183        182
+  is expanded into a "C3D6  S " element with topology:
+        974        980        977        976        982        979
+
+ ELEMENT          483 with label "CPS3    " and with nodes:
+        107        399        294
+  is expanded into a "C3D6  S " element with topology:
+        752       1628       1313        754       1630       1315
+
+ ELEMENT          484 with label "CPS3    " and with nodes:
+        232        233        230
+  is expanded into a "C3D6  S " element with topology:
+       1127       1130       1121       1129       1132       1123
+
+ ELEMENT          485 with label "CPS3    " and with nodes:
+        187        407        189
+  is expanded into a "C3D6  S " element with topology:
+        992       1652        998        994       1654       1000
+
+ ELEMENT          486 with label "CPS3    " and with nodes:
+        153        154        152
+  is expanded into a "C3D6  S " element with topology:
+        890        893        887        892        895        889
+
+ ELEMENT          487 with label "CPS3    " and with nodes:
+         77        371         76
+  is expanded into a "C3D6  S " element with topology:
+        662       1544        659        664       1546        661
+
+ ELEMENT          488 with label "CPS3    " and with nodes:
+         44        378         43
+  is expanded into a "C3D6  S " element with topology:
+        563       1565        560        565       1567        562
+
+ ELEMENT          489 with label "CPS3    " and with nodes:
+        143        406        178
+  is expanded into a "C3D6  S " element with topology:
+        860       1649        965        862       1651        967
+
+ ELEMENT          490 with label "CPS3    " and with nodes:
+        119        368         56
+  is expanded into a "C3D6  S " element with topology:
+        788       1535        599        790       1537        601
+
+ ELEMENT          491 with label "CPS3    " and with nodes:
+        107        370         46
+  is expanded into a "C3D6  S " element with topology:
+        752       1541        569        754       1543        571
+
+ ELEMENT          492 with label "CPS3    " and with nodes:
+         45        370        130
+  is expanded into a "C3D6  S " element with topology:
+        566       1541        821        568       1543        823
+
+ ELEMENT          493 with label "CPS3    " and with nodes:
+        351        362        123
+  is expanded into a "C3D6  S " element with topology:
+       1484       1517        800       1486       1519        802
+
+ ELEMENT          494 with label "CPS3    " and with nodes:
+        267        383        216
+  is expanded into a "C3D6  S " element with topology:
+       1232       1580       1079       1234       1582       1081
+
+ ELEMENT          495 with label "CPS3    " and with nodes:
+        150        162        153
+  is expanded into a "C3D6  S " element with topology:
+        881        917        890        883        919        892
+
+ ELEMENT          496 with label "CPS3    " and with nodes:
+        179        181        180
+  is expanded into a "C3D6  S " element with topology:
+        968        974        971        970        976        973
+
+ ELEMENT          497 with label "CPS3    " and with nodes:
+        128        373         98
+  is expanded into a "C3D6  S " element with topology:
+        815       1550        725        817       1552        727
+
+ ELEMENT          498 with label "CPS3    " and with nodes:
+         97        373        118
+  is expanded into a "C3D6  S " element with topology:
+        722       1550        785        724       1552        787
+
+ ELEMENT          499 with label "CPS3    " and with nodes:
+        315        403        121
+  is expanded into a "C3D6  S " element with topology:
+       1376       1640        794       1378       1642        796
+
+ ELEMENT          500 with label "CPS3    " and with nodes:
+        361        369        333
+  is expanded into a "C3D6  S " element with topology:
+       1514       1538       1430       1516       1540       1432
+
+ ELEMENT          501 with label "CPS3    " and with nodes:
+         78        385         77
+  is expanded into a "C3D6  S " element with topology:
+        665       1586        662        667       1588        664
+
+ ELEMENT          502 with label "CPS3    " and with nodes:
+        165        391        172
+  is expanded into a "C3D6  S " element with topology:
+        926       1604        947        928       1606        949
+
+ ELEMENT          503 with label "CPS3    " and with nodes:
+        375        429        257
+  is expanded into a "C3D6  S " element with topology:
+       1556       1718       1202       1558       1720       1204
+
+ ELEMENT          504 with label "CPS3    " and with nodes:
+         54        377        122
+  is expanded into a "C3D6  S " element with topology:
+        593       1562        797        595       1564        799
+
+ ELEMENT          505 with label "CPS3    " and with nodes:
+        344        369        126
+  is expanded into a "C3D6  S " element with topology:
+       1463       1538        809       1465       1540        811
+
+ ELEMENT          506 with label "CPS3    " and with nodes:
+        136        363         73
+  is expanded into a "C3D6  S " element with topology:
+        839       1520        650        841       1522        652
+
+ ELEMENT          507 with label "CPS3    " and with nodes:
+        336        386        378
+  is expanded into a "C3D6  S " element with topology:
+       1439       1589       1565       1441       1591       1567
+
+ ELEMENT          508 with label "CPS3    " and with nodes:
+        382        429        291
+  is expanded into a "C3D6  S " element with topology:
+       1577       1718       1304       1579       1720       1306
+
+ ELEMENT          509 with label "CPS3    " and with nodes:
+        135        364         83
+  is expanded into a "C3D6  S " element with topology:
+        836       1523        680        838       1525        682
+
+ ELEMENT          510 with label "CPS3    " and with nodes:
+         84        380        135
+  is expanded into a "C3D6  S " element with topology:
+        683       1571        836        685       1573        838
+
+ ELEMENT          511 with label "CPS3    " and with nodes:
+        120        380         85
+  is expanded into a "C3D6  S " element with topology:
+        791       1571        686        793       1573        688
+
+ ELEMENT          512 with label "CPS3    " and with nodes:
+         86        381        120
+  is expanded into a "C3D6  S " element with topology:
+        689       1574        791        691       1576        793
+
+ ELEMENT          513 with label "CPS3    " and with nodes:
+        132        381         87
+  is expanded into a "C3D6  S " element with topology:
+        827       1574        692        829       1576        694
+
+ ELEMENT          514 with label "CPS3    " and with nodes:
+        344        379        369
+  is expanded into a "C3D6  S " element with topology:
+       1463       1568       1538       1465       1570       1540
+
+ ELEMENT          515 with label "CPS3    " and with nodes:
+        335        419        275
+  is expanded into a "C3D6  S " element with topology:
+       1436       1688       1256       1438       1690       1258
+
+ ELEMENT          516 with label "CPS3    " and with nodes:
+         62        411          4
+  is expanded into a "C3D6  S " element with topology:
+        617       1664        443        619       1666        445
+
+ ELEMENT          517 with label "CPS3    " and with nodes:
+          5        412         81
+  is expanded into a "C3D6  S " element with topology:
+        446       1667        674        448       1669        676
+
+ ELEMENT          518 with label "CPS3    " and with nodes:
+          4        411        101
+  is expanded into a "C3D6  S " element with topology:
+        443       1664        734        445       1666        736
+
+ ELEMENT          519 with label "CPS3    " and with nodes:
+         82        412          5
+  is expanded into a "C3D6  S " element with topology:
+        677       1667        446        679       1669        448
+
+ ELEMENT          520 with label "CPS3    " and with nodes:
+        246        395        199
+  is expanded into a "C3D6  S " element with topology:
+       1169       1616       1028       1171       1618       1030
+
+ ELEMENT          521 with label "CPS3    " and with nodes:
+        103        431        285
+  is expanded into a "C3D6  S " element with topology:
+        740       1724       1286        742       1726       1288
+
+ ELEMENT          522 with label "CPS3    " and with nodes:
+        226        229        228
+  is expanded into a "C3D6  S " element with topology:
+       1109       1118       1115       1111       1120       1117
+
+ ELEMENT          523 with label "CPS3    " and with nodes:
+        254        429        255
+  is expanded into a "C3D6  S " element with topology:
+       1193       1718       1196       1195       1720       1198
+
+ ELEMENT          524 with label "CPS3    " and with nodes:
+        333        369        207
+  is expanded into a "C3D6  S " element with topology:
+       1430       1538       1052       1432       1540       1054
+
+ ELEMENT          525 with label "CPS3    " and with nodes:
+         76        371        109
+  is expanded into a "C3D6  S " element with topology:
+        659       1544        758        661       1546        760
+
+ ELEMENT          526 with label "CPS3    " and with nodes:
+         56        368         55
+  is expanded into a "C3D6  S " element with topology:
+        599       1535        596        601       1537        598
+
+ ELEMENT          527 with label "CPS3    " and with nodes:
+         72        414          3
+  is expanded into a "C3D6  S " element with topology:
+        647       1673        440        649       1675        442
+
+ ELEMENT          528 with label "CPS3    " and with nodes:
+          3        414         61
+  is expanded into a "C3D6  S " element with topology:
+        440       1673        614        442       1675        616
+
+ ELEMENT          529 with label "CPS3    " and with nodes:
+        109        371        349
+  is expanded into a "C3D6  S " element with topology:
+        758       1544       1478        760       1546       1480
+
+ ELEMENT          530 with label "CPS3    " and with nodes:
+        305        391        169
+  is expanded into a "C3D6  S " element with topology:
+       1346       1604        938       1348       1606        940
+
+ ELEMENT          531 with label "CPS3    " and with nodes:
+        349        371        318
+  is expanded into a "C3D6  S " element with topology:
+       1478       1544       1385       1480       1546       1387
+
+ ELEMENT          532 with label "CPS3    " and with nodes:
+         46        370         45
+  is expanded into a "C3D6  S " element with topology:
+        569       1541        566        571       1543        568
+
+ ELEMENT          533 with label "CPS3    " and with nodes:
+        286        428        312
+  is expanded into a "C3D6  S " element with topology:
+       1289       1715       1367       1291       1717       1369
+
+ ELEMENT          534 with label "CPS3    " and with nodes:
+        128        392        338
+  is expanded into a "C3D6  S " element with topology:
+        815       1607       1445        817       1609       1447
+
+ ELEMENT          535 with label "CPS3    " and with nodes:
+        332        396        234
+  is expanded into a "C3D6  S " element with topology:
+       1427       1619       1133       1429       1621       1135
+
+ ELEMENT          536 with label "CPS3    " and with nodes:
+        244        395        246
+  is expanded into a "C3D6  S " element with topology:
+       1163       1616       1169       1165       1618       1171
+
+ ELEMENT          537 with label "CPS3    " and with nodes:
+         47        399        107
+  is expanded into a "C3D6  S " element with topology:
+        572       1628        752        574       1630        754
+
+ ELEMENT          538 with label "CPS3    " and with nodes:
+        354        399         48
+  is expanded into a "C3D6  S " element with topology:
+       1493       1628        575       1495       1630        577
+
+ ELEMENT          539 with label "CPS3    " and with nodes:
+         99        392        128
+  is expanded into a "C3D6  S " element with topology:
+        728       1607        815        730       1609        817
+
+ ELEMENT          540 with label "CPS3    " and with nodes:
+          2        416         71
+  is expanded into a "C3D6  S " element with topology:
+        437       1679        644        439       1681        646
+
+ ELEMENT          541 with label "CPS3    " and with nodes:
+         42        416          2
+  is expanded into a "C3D6  S " element with topology:
+        557       1679        437        559       1681        439
+
+ ELEMENT          542 with label "CPS3    " and with nodes:
+        296        297        131
+  is expanded into a "C3D6  S " element with topology:
+       1319       1322        824       1321       1324        826
+
+ ELEMENT          543 with label "CPS3    " and with nodes:
+        236        237        115
+  is expanded into a "C3D6  S " element with topology:
+       1139       1142        776       1141       1144        778
+
+ ELEMENT          544 with label "CPS3    " and with nodes:
+         98        373         97
+  is expanded into a "C3D6  S " element with topology:
+        725       1550        722        727       1552        724
+
+ ELEMENT          545 with label "CPS3    " and with nodes:
+        118        400        353
+  is expanded into a "C3D6  S " element with topology:
+        785       1631       1490        787       1633       1492
+
+ ELEMENT          546 with label "CPS3    " and with nodes:
+        223        224        116
+  is expanded into a "C3D6  S " element with topology:
+       1100       1103        779       1102       1105        781
+
+ ELEMENT          547 with label "CPS3    " and with nodes:
+        218        219        114
+  is expanded into a "C3D6  S " element with topology:
+       1085       1088        773       1087       1090        775
+
+ ELEMENT          548 with label "CPS3    " and with nodes:
+        150        152        149
+  is expanded into a "C3D6  S " element with topology:
+        881        887        878        883        889        880
+
+ ELEMENT          549 with label "CPS3    " and with nodes:
+        369        379        207
+  is expanded into a "C3D6  S " element with topology:
+       1538       1568       1052       1540       1570       1054
+
+ ELEMENT          550 with label "CPS3    " and with nodes:
+        148        150        149
+  is expanded into a "C3D6  S " element with topology:
+        875        881        878        877        883        880
+
+ ELEMENT          551 with label "CPS3    " and with nodes:
+        133        254        253
+  is expanded into a "C3D6  S " element with topology:
+        830       1193       1190        832       1195       1192
+
+ ELEMENT          552 with label "CPS3    " and with nodes:
+        134        248        247
+  is expanded into a "C3D6  S " element with topology:
+        833       1175       1172        835       1177       1174
+
+ ELEMENT          553 with label "CPS3    " and with nodes:
+        233        396        325
+  is expanded into a "C3D6  S " element with topology:
+       1130       1619       1406       1132       1621       1408
+
+ ELEMENT          554 with label "CPS3    " and with nodes:
+        108        144        143
+  is expanded into a "C3D6  S " element with topology:
+        755        863        860        757        865        862
+
+ ELEMENT          555 with label "CPS3    " and with nodes:
+        368        377         55
+  is expanded into a "C3D6  S " element with topology:
+       1535       1562        596       1537       1564        598
+
+ ELEMENT          556 with label "CPS3    " and with nodes:
+        356        404        229
+  is expanded into a "C3D6  S " element with topology:
+       1499       1643       1118       1501       1645       1120
+
+ ELEMENT          557 with label "CPS3    " and with nodes:
+        125        404        356
+  is expanded into a "C3D6  S " element with topology:
+        806       1643       1499        808       1645       1501
+
+ ELEMENT          558 with label "CPS3    " and with nodes:
+        282        428        286
+  is expanded into a "C3D6  S " element with topology:
+       1277       1715       1289       1279       1717       1291
+
+ ELEMENT          559 with label "CPS3    " and with nodes:
+        291        429        137
+  is expanded into a "C3D6  S " element with topology:
+       1304       1718        842       1306       1720        844
+
+ ELEMENT          560 with label "CPS3    " and with nodes:
+         55        377         54
+  is expanded into a "C3D6  S " element with topology:
+        596       1562        593        598       1564        595
+
+ ELEMENT          561 with label "CPS3    " and with nodes:
+        209        403        315
+  is expanded into a "C3D6  S " element with topology:
+       1058       1640       1376       1060       1642       1378
+
+ ELEMENT          562 with label "CPS3    " and with nodes:
+        106        379        344
+  is expanded into a "C3D6  S " element with topology:
+        749       1568       1463        751       1570       1465
+
+ ELEMENT          563 with label "CPS3    " and with nodes:
+        304        405        308
+  is expanded into a "C3D6  S " element with topology:
+       1343       1646       1355       1345       1648       1357
+
+ ELEMENT          564 with label "CPS3    " and with nodes:
+        242        243        102
+  is expanded into a "C3D6  S " element with topology:
+       1157       1160        737       1159       1162        739
+
+ ELEMENT          565 with label "CPS3    " and with nodes:
+        176        415        287
+  is expanded into a "C3D6  S " element with topology:
+        959       1676       1292        961       1678       1294
+
+ ELEMENT          566 with label "CPS3    " and with nodes:
+        181        182        180
+  is expanded into a "C3D6  S " element with topology:
+        974        977        971        976        979        973
+
+ ELEMENT          567 with label "CPS3    " and with nodes:
+        263        265        264
+  is expanded into a "C3D6  S " element with topology:
+       1220       1226       1223       1222       1228       1225
+
+ ELEMENT          568 with label "CPS3    " and with nodes:
+        259        260        258
+  is expanded into a "C3D6  S " element with topology:
+       1208       1211       1205       1210       1213       1207
+
+ ELEMENT          569 with label "CPS3    " and with nodes:
+        308        377        368
+  is expanded into a "C3D6  S " element with topology:
+       1355       1562       1535       1357       1564       1537
+
+ ELEMENT          570 with label "CPS3    " and with nodes:
+        106        390        379
+  is expanded into a "C3D6  S " element with topology:
+        749       1601       1568        751       1603       1570
+
+ ELEMENT          571 with label "CPS3    " and with nodes:
+        233        394        230
+  is expanded into a "C3D6  S " element with topology:
+       1130       1613       1121       1132       1615       1123
+
+ ELEMENT          572 with label "CPS3    " and with nodes:
+        103        285        284
+  is expanded into a "C3D6  S " element with topology:
+        740       1286       1283        742       1288       1285
+
+ ELEMENT          573 with label "CPS3    " and with nodes:
+        279        281        221
+  is expanded into a "C3D6  S " element with topology:
+       1268       1274       1094       1270       1276       1096
+
+ ELEMENT          574 with label "CPS3    " and with nodes:
+        207        379        210
+  is expanded into a "C3D6  S " element with topology:
+       1052       1568       1061       1054       1570       1063
+
+ ELEMENT          575 with label "CPS3    " and with nodes:
+        108        145        144
+  is expanded into a "C3D6  S " element with topology:
+        755        866        863        757        868        865
+
+ ELEMENT          576 with label "CPS3    " and with nodes:
+        130        378         44
+  is expanded into a "C3D6  S " element with topology:
+        821       1565        563        823       1567        565
+
+ ELEMENT          577 with label "CPS3    " and with nodes:
+        137        375         92
+  is expanded into a "C3D6  S " element with topology:
+        842       1556        707        844       1558        709
+
+ ELEMENT          578 with label "CPS3    " and with nodes:
+        325        396        203
+  is expanded into a "C3D6  S " element with topology:
+       1406       1619       1040       1408       1621       1042
+
+ ELEMENT          579 with label "CPS3    " and with nodes:
+        133        256        254
+  is expanded into a "C3D6  S " element with topology:
+        830       1199       1193        832       1201       1195
+
+ ELEMENT          580 with label "CPS3    " and with nodes:
+        134        250        248
+  is expanded into a "C3D6  S " element with topology:
+        833       1181       1175        835       1183       1177
+
+ ELEMENT          581 with label "CPS3    " and with nodes:
+        296        347        297
+  is expanded into a "C3D6  S " element with topology:
+       1319       1472       1322       1321       1474       1324
+
+ ELEMENT          582 with label "CPS3    " and with nodes:
+        312        374        219
+  is expanded into a "C3D6  S " element with topology:
+       1367       1553       1088       1369       1555       1090
+
+ ELEMENT          583 with label "CPS3    " and with nodes:
+        138        348        314
+  is expanded into a "C3D6  S " element with topology:
+        845       1475       1373        847       1477       1375
+
+ ELEMENT          584 with label "CPS3    " and with nodes:
+        362        418        123
+  is expanded into a "C3D6  S " element with topology:
+       1517       1685        800       1519       1687        802
+
+ ELEMENT          585 with label "CPS3    " and with nodes:
+        174        374        312
+  is expanded into a "C3D6  S " element with topology:
+        953       1553       1367        955       1555       1369
+
+ ELEMENT          586 with label "CPS3    " and with nodes:
+        180        184        151
+  is expanded into a "C3D6  S " element with topology:
+        971        983        884        973        985        886
+
+ ELEMENT          587 with label "CPS3    " and with nodes:
+        217        286        218
+  is expanded into a "C3D6  S " element with topology:
+       1082       1289       1085       1084       1291       1087
+
+ ELEMENT          588 with label "CPS3    " and with nodes:
+        137        429        375
+  is expanded into a "C3D6  S " element with topology:
+        842       1718       1556        844       1720       1558
+
+ ELEMENT          589 with label "CPS3    " and with nodes:
+        315        418        185
+  is expanded into a "C3D6  S " element with topology:
+       1376       1685        986       1378       1687        988
+
+ ELEMENT          590 with label "CPS3    " and with nodes:
+        234        400        332
+  is expanded into a "C3D6  S " element with topology:
+       1133       1631       1427       1135       1633       1429
+
+ ELEMENT          591 with label "CPS3    " and with nodes:
+        355        398        240
+  is expanded into a "C3D6  S " element with topology:
+       1496       1625       1151       1498       1627       1153
+
+ ELEMENT          592 with label "CPS3    " and with nodes:
+         85        380         84
+  is expanded into a "C3D6  S " element with topology:
+        686       1571        683        688       1573        685
+
+ ELEMENT          593 with label "CPS3    " and with nodes:
+        184        420        352
+  is expanded into a "C3D6  S " element with topology:
+        983       1691       1487        985       1693       1489
+
+ ELEMENT          594 with label "CPS3    " and with nodes:
+         87        381         86
+  is expanded into a "C3D6  S " element with topology:
+        692       1574        689        694       1576        691
+
+ ELEMENT          595 with label "CPS3    " and with nodes:
+        184        405        306
+  is expanded into a "C3D6  S " element with topology:
+        983       1646       1349        985       1648       1351
+
+ ELEMENT          596 with label "CPS3    " and with nodes:
+        226        291        229
+  is expanded into a "C3D6  S " element with topology:
+       1109       1304       1118       1111       1306       1120
+
+ ELEMENT          597 with label "CPS3    " and with nodes:
+        203        396        332
+  is expanded into a "C3D6  S " element with topology:
+       1040       1619       1427       1042       1621       1429
+
+ ELEMENT          598 with label "CPS3    " and with nodes:
+        379        390        210
+  is expanded into a "C3D6  S " element with topology:
+       1568       1601       1061       1570       1603       1063
+
+ ELEMENT          599 with label "CPS3    " and with nodes:
+        359        411        139
+  is expanded into a "C3D6  S " element with topology:
+       1508       1664        848       1510       1666        850
+
+ ELEMENT          600 with label "CPS3    " and with nodes:
+        216        319        280
+  is expanded into a "C3D6  S " element with topology:
+       1079       1388       1271       1081       1390       1273
+
+ ELEMENT          601 with label "CPS3    " and with nodes:
+        133        430        256
+  is expanded into a "C3D6  S " element with topology:
+        830       1721       1199        832       1723       1201
+
+ ELEMENT          602 with label "CPS3    " and with nodes:
+        308        405        360
+  is expanded into a "C3D6  S " element with topology:
+       1355       1646       1511       1357       1648       1513
+
+ ELEMENT          603 with label "CPS3    " and with nodes:
+        350        418        315
+  is expanded into a "C3D6  S " element with topology:
+       1481       1685       1376       1483       1687       1378
+
+ ELEMENT          604 with label "CPS3    " and with nodes:
+        232        387        234
+  is expanded into a "C3D6  S " element with topology:
+       1127       1592       1133       1129       1594       1135
+
+ ELEMENT          605 with label "CPS3    " and with nodes:
+        336        427        140
+  is expanded into a "C3D6  S " element with topology:
+       1439       1712        851       1441       1714        853
+
+ ELEMENT          606 with label "CPS3    " and with nodes:
+        124        385         78
+  is expanded into a "C3D6  S " element with topology:
+        803       1586        665        805       1588        667
+
+ ELEMENT          607 with label "CPS3    " and with nodes:
+        360        405        184
+  is expanded into a "C3D6  S " element with topology:
+       1511       1646        983       1513       1648        985
+
+ ELEMENT          608 with label "CPS3    " and with nodes:
+        238        426        240
+  is expanded into a "C3D6  S " element with topology:
+       1145       1709       1151       1147       1711       1153
+
+ ELEMENT          609 with label "CPS3    " and with nodes:
+        177        408        288
+  is expanded into a "C3D6  S " element with topology:
+        962       1655       1295        964       1657       1297
+
+ ELEMENT          610 with label "CPS3    " and with nodes:
+        150        153        152
+  is expanded into a "C3D6  S " element with topology:
+        881        890        887        883        892        889
+
+ ELEMENT          611 with label "CPS3    " and with nodes:
+        179        180        151
+  is expanded into a "C3D6  S " element with topology:
+        968        971        884        970        973        886
+
+ ELEMENT          612 with label "CPS3    " and with nodes:
+         43        386         42
+  is expanded into a "C3D6  S " element with topology:
+        560       1589        557        562       1591        559
+
+ ELEMENT          613 with label "CPS3    " and with nodes:
+        365        366        214
+  is expanded into a "C3D6  S " element with topology:
+       1526       1529       1073       1528       1531       1075
+
+ ELEMENT          614 with label "CPS3    " and with nodes:
+        290        409        384
+  is expanded into a "C3D6  S " element with topology:
+       1301       1658       1583       1303       1660       1585
+
+ ELEMENT          615 with label "CPS3    " and with nodes:
+        340        390        106
+  is expanded into a "C3D6  S " element with topology:
+       1451       1601        749       1453       1603        751
+
+ ELEMENT          616 with label "CPS3    " and with nodes:
+        210        390        212
+  is expanded into a "C3D6  S " element with topology:
+       1061       1601       1067       1063       1603       1069
+
+ ELEMENT          617 with label "CPS3    " and with nodes:
+        354        403        311
+  is expanded into a "C3D6  S " element with topology:
+       1493       1640       1364       1495       1642       1366
+
+ ELEMENT          618 with label "CPS3    " and with nodes:
+         90        348        138
+  is expanded into a "C3D6  S " element with topology:
+        701       1475        845        703       1477        847
+
+ ELEMENT          619 with label "CPS3    " and with nodes:
+        100        392         99
+  is expanded into a "C3D6  S " element with topology:
+        731       1607        728        733       1609        730
+
+ ELEMENT          620 with label "CPS3    " and with nodes:
+        367        423        243
+  is expanded into a "C3D6  S " element with topology:
+       1532       1700       1160       1534       1702       1162
+
+ ELEMENT          621 with label "CPS3    " and with nodes:
+        318        408        177
+  is expanded into a "C3D6  S " element with topology:
+       1385       1655        962       1387       1657        964
+
+ ELEMENT          622 with label "CPS3    " and with nodes:
+        370        419        130
+  is expanded into a "C3D6  S " element with topology:
+       1541       1688        821       1543       1690        823
+
+ ELEMENT          623 with label "CPS3    " and with nodes:
+        265        423        367
+  is expanded into a "C3D6  S " element with topology:
+       1226       1700       1532       1228       1702       1534
+
+ ELEMENT          624 with label "CPS3    " and with nodes:
+        169        391        165
+  is expanded into a "C3D6  S " element with topology:
+        938       1604        926        940       1606        928
+
+ ELEMENT          625 with label "CPS3    " and with nodes:
+        340        397        390
+  is expanded into a "C3D6  S " element with topology:
+       1451       1622       1601       1453       1624       1603
+
+ ELEMENT          626 with label "CPS3    " and with nodes:
+        121        403        354
+  is expanded into a "C3D6  S " element with topology:
+        794       1640       1493        796       1642       1495
+
+ ELEMENT          627 with label "CPS3    " and with nodes:
+        300        424        256
+  is expanded into a "C3D6  S " element with topology:
+       1331       1703       1199       1333       1705       1201
+
+ ELEMENT          628 with label "CPS3    " and with nodes:
+        359        392        100
+  is expanded into a "C3D6  S " element with topology:
+       1508       1607        731       1510       1609        733
+
+ ELEMENT          629 with label "CPS3    " and with nodes:
+        254        255        253
+  is expanded into a "C3D6  S " element with topology:
+       1193       1196       1190       1195       1198       1192
+
+ ELEMENT          630 with label "CPS3    " and with nodes:
+        248        249        247
+  is expanded into a "C3D6  S " element with topology:
+       1175       1178       1172       1177       1180       1174
+
+ ELEMENT          631 with label "CPS3    " and with nodes:
+        297        347        314
+  is expanded into a "C3D6  S " element with topology:
+       1322       1472       1373       1324       1474       1375
+
+ ELEMENT          632 with label "CPS3    " and with nodes:
+        353        387        125
+  is expanded into a "C3D6  S " element with topology:
+       1490       1592        806       1492       1594        808
+
+ ELEMENT          633 with label "CPS3    " and with nodes:
+        390        397        212
+  is expanded into a "C3D6  S " element with topology:
+       1601       1622       1067       1603       1624       1069
+
+ ELEMENT          634 with label "CPS3    " and with nodes:
+        401        425        278
+  is expanded into a "C3D6  S " element with topology:
+       1634       1706       1265       1636       1708       1267
+
+ ELEMENT          635 with label "CPS3    " and with nodes:
+        251        402        252
+  is expanded into a "C3D6  S " element with topology:
+       1184       1637       1187       1186       1639       1189
+
+ ELEMENT          636 with label "CPS3    " and with nodes:
+        244        367        243
+  is expanded into a "C3D6  S " element with topology:
+       1163       1532       1160       1165       1534       1162
+
+ ELEMENT          637 with label "CPS3    " and with nodes:
+        352        420        362
+  is expanded into a "C3D6  S " element with topology:
+       1487       1691       1517       1489       1693       1519
+
+ ELEMENT          638 with label "CPS3    " and with nodes:
+        228        232        230
+  is expanded into a "C3D6  S " element with topology:
+       1115       1127       1121       1117       1129       1123
+
+ ELEMENT          639 with label "CPS3    " and with nodes:
+        265        367        208
+  is expanded into a "C3D6  S " element with topology:
+       1226       1532       1055       1228       1534       1057
+
+ ELEMENT          640 with label "CPS3    " and with nodes:
+        269        417        245
+  is expanded into a "C3D6  S " element with topology:
+       1238       1682       1166       1240       1684       1168
+
+ ELEMENT          641 with label "CPS3    " and with nodes:
+        280        319        279
+  is expanded into a "C3D6  S " element with topology:
+       1271       1388       1268       1273       1390       1270
+
+ ELEMENT          642 with label "CPS3    " and with nodes:
+        311        403        209
+  is expanded into a "C3D6  S " element with topology:
+       1364       1640       1058       1366       1642       1060
+
+ ELEMENT          643 with label "CPS3    " and with nodes:
+        234        396        233
+  is expanded into a "C3D6  S " element with topology:
+       1133       1619       1130       1135       1621       1132
+
+ ELEMENT          644 with label "CPS3    " and with nodes:
+        239        347        296
+  is expanded into a "C3D6  S " element with topology:
+       1148       1472       1319       1150       1474       1321
+
+ ELEMENT          645 with label "CPS3    " and with nodes:
+        212        397        271
+  is expanded into a "C3D6  S " element with topology:
+       1067       1622       1244       1069       1624       1246
+
+ ELEMENT          646 with label "CPS3    " and with nodes:
+        129        401        310
+  is expanded into a "C3D6  S " element with topology:
+        818       1634       1361        820       1636       1363
+
+ ELEMENT          647 with label "CPS3    " and with nodes:
+        180        420        184
+  is expanded into a "C3D6  S " element with topology:
+        971       1691        983        973       1693        985
+
+ ELEMENT          648 with label "CPS3    " and with nodes:
+        178        406        372
+  is expanded into a "C3D6  S " element with topology:
+        965       1649       1547        967       1651       1549
+
+ ELEMENT          649 with label "CPS3    " and with nodes:
+        362        420        182
+  is expanded into a "C3D6  S " element with topology:
+       1517       1691        977       1519       1693        979
+
+ ELEMENT          650 with label "CPS3    " and with nodes:
+        306        405        304
+  is expanded into a "C3D6  S " element with topology:
+       1349       1646       1343       1351       1648       1345
+
+ ELEMENT          651 with label "CPS3    " and with nodes:
+        127        397        340
+  is expanded into a "C3D6  S " element with topology:
+        812       1622       1451        814       1624       1453
+
+ ELEMENT          652 with label "CPS3    " and with nodes:
+         48        399         47
+  is expanded into a "C3D6  S " element with topology:
+        575       1628        572        577       1630        574
+
+ ELEMENT          653 with label "CPS3    " and with nodes:
+        348        421        314
+  is expanded into a "C3D6  S " element with topology:
+       1475       1694       1373       1477       1696       1375
+
+ ELEMENT          654 with label "CPS3    " and with nodes:
+        127        413        397
+  is expanded into a "C3D6  S " element with topology:
+        812       1670       1622        814       1672       1624
+
+ ELEMENT          655 with label "CPS3    " and with nodes:
+        264        389        259
+  is expanded into a "C3D6  S " element with topology:
+       1223       1598       1208       1225       1600       1210
+
+ ELEMENT          656 with label "CPS3    " and with nodes:
+        245        388        242
+  is expanded into a "C3D6  S " element with topology:
+       1166       1595       1157       1168       1597       1159
+
+ ELEMENT          657 with label "CPS3    " and with nodes:
+        250        421        248
+  is expanded into a "C3D6  S " element with topology:
+       1181       1694       1175       1183       1696       1177
+
+ ELEMENT          658 with label "CPS3    " and with nodes:
+        251        421        348
+  is expanded into a "C3D6  S " element with topology:
+       1184       1694       1475       1186       1696       1477
+
+ ELEMENT          659 with label "CPS3    " and with nodes:
+        397        413        271
+  is expanded into a "C3D6  S " element with topology:
+       1622       1670       1244       1624       1672       1246
+
+ ELEMENT          660 with label "CPS3    " and with nodes:
+        363        414         72
+  is expanded into a "C3D6  S " element with topology:
+       1520       1673        647       1522       1675        649
+
+ ELEMENT          661 with label "CPS3    " and with nodes:
+        252        402        375
+  is expanded into a "C3D6  S " element with topology:
+       1187       1637       1556       1189       1639       1558
+
+ ELEMENT          662 with label "CPS3    " and with nodes:
+        283        358        282
+  is expanded into a "C3D6  S " element with topology:
+       1280       1505       1277       1282       1507       1279
+
+ ELEMENT          663 with label "CPS3    " and with nodes:
+        223        422        226
+  is expanded into a "C3D6  S " element with topology:
+       1100       1697       1109       1102       1699       1111
+
+ ELEMENT          664 with label "CPS3    " and with nodes:
+        140        416        386
+  is expanded into a "C3D6  S " element with topology:
+        851       1679       1589        853       1681       1591
+
+ ELEMENT          665 with label "CPS3    " and with nodes:
+        271        413        274
+  is expanded into a "C3D6  S " element with topology:
+       1244       1670       1253       1246       1672       1255
+
+ ELEMENT          666 with label "CPS3    " and with nodes:
+        292        419        370
+  is expanded into a "C3D6  S " element with topology:
+       1307       1688       1541       1309       1690       1543
+
+ ELEMENT          667 with label "CPS3    " and with nodes:
+        364        412         82
+  is expanded into a "C3D6  S " element with topology:
+       1523       1667        677       1525       1669        679
+
+ ELEMENT          668 with label "CPS3    " and with nodes:
+        357        401        129
+  is expanded into a "C3D6  S " element with topology:
+       1502       1634        818       1504       1636        820
+
+ ELEMENT          669 with label "CPS3    " and with nodes:
+        284        432        283
+  is expanded into a "C3D6  S " element with topology:
+       1283       1727       1280       1285       1729       1282
+
+ ELEMENT          670 with label "CPS3    " and with nodes:
+        347        398        138
+  is expanded into a "C3D6  S " element with topology:
+       1472       1625        845       1474       1627        847
+
+ ELEMENT          671 with label "CPS3    " and with nodes:
+         71        416        140
+  is expanded into a "C3D6  S " element with topology:
+        644       1679        851        646       1681        853
+
+ ELEMENT          672 with label "CPS3    " and with nodes:
+         81        412        142
+  is expanded into a "C3D6  S " element with topology:
+        674       1667        857        676       1669        859
+
+ ELEMENT          673 with label "CPS3    " and with nodes:
+        139        411         62
+  is expanded into a "C3D6  S " element with topology:
+        848       1664        617        850       1666        619
+
+ ELEMENT          674 with label "CPS3    " and with nodes:
+        341        413        127
+  is expanded into a "C3D6  S " element with topology:
+       1454       1670        812       1456       1672        814
+
+ ELEMENT          675 with label "CPS3    " and with nodes:
+        275        419        292
+  is expanded into a "C3D6  S " element with topology:
+       1256       1688       1307       1258       1690       1309
+
+ ELEMENT          676 with label "CPS3    " and with nodes:
+        274        427        336
+  is expanded into a "C3D6  S " element with topology:
+       1253       1712       1439       1255       1714       1441
+
+ ELEMENT          677 with label "CPS3    " and with nodes:
+        181        393        319
+  is expanded into a "C3D6  S " element with topology:
+        974       1610       1388        976       1612       1390
+
+ ELEMENT          678 with label "CPS3    " and with nodes:
+         61        414        141
+  is expanded into a "C3D6  S " element with topology:
+        614       1673        854        616       1675        856
+
+ ELEMENT          679 with label "CPS3    " and with nodes:
+        324        426        174
+  is expanded into a "C3D6  S " element with topology:
+       1403       1709        953       1405       1711        955
+
+ ELEMENT          680 with label "CPS3    " and with nodes:
+        413        427        274
+  is expanded into a "C3D6  S " element with topology:
+       1670       1712       1253       1672       1714       1255
+
+ ELEMENT          681 with label "CPS3    " and with nodes:
+        357        425        401
+  is expanded into a "C3D6  S " element with topology:
+       1502       1706       1634       1504       1708       1636
+
+ ELEMENT          682 with label "CPS3    " and with nodes:
+        341        427        413
+  is expanded into a "C3D6  S " element with topology:
+       1454       1712       1670       1456       1714       1672
+
+ ELEMENT          683 with label "CPS3    " and with nodes:
+        388        395        244
+  is expanded into a "C3D6  S " element with topology:
+       1595       1616       1163       1597       1618       1165
+
+ ELEMENT          684 with label "CPS3    " and with nodes:
+        348        402        251
+  is expanded into a "C3D6  S " element with topology:
+       1475       1637       1184       1477       1639       1186
+
+ ELEMENT          685 with label "CPS3    " and with nodes:
+        140        427        341
+  is expanded into a "C3D6  S " element with topology:
+        851       1712       1454        853       1714       1456
+
+ ELEMENT          686 with label "CPS3    " and with nodes:
+        415        428        358
+  is expanded into a "C3D6  S " element with topology:
+       1676       1715       1505       1678       1717       1507
+
+ ELEMENT          687 with label "CPS3    " and with nodes:
+        123        418        350
+  is expanded into a "C3D6  S " element with topology:
+        800       1685       1481        802       1687       1483
+
+ ELEMENT          688 with label "CPS3    " and with nodes:
+        199        395        394
+  is expanded into a "C3D6  S " element with topology:
+       1028       1616       1613       1030       1618       1615
+
+ ELEMENT          689 with label "CPS3    " and with nodes:
+        312        428        176
+  is expanded into a "C3D6  S " element with topology:
+       1367       1715        959       1369       1717        961
+
+ ELEMENT          690 with label "CPS3    " and with nodes:
+        257        429        254
+  is expanded into a "C3D6  S " element with topology:
+       1202       1718       1193       1204       1720       1195
+
+ ELEMENT          691 with label "CPS3    " and with nodes:
+        141        425        357
+  is expanded into a "C3D6  S " element with topology:
+        854       1706       1502        856       1708       1504
+
+ ELEMENT          692 with label "CPS3    " and with nodes:
+         16        430        133
+  is expanded into a "C3D6  S " element with topology:
+        479       1721        830        481       1723        832
+
+ ELEMENT          693 with label "CPS3    " and with nodes:
+         39        431        103
+  is expanded into a "C3D6  S " element with topology:
+        548       1724        740        550       1726        742
+
+ ELEMENT          694 with label "CPS3    " and with nodes:
+        252        424        249
+  is expanded into a "C3D6  S " element with topology:
+       1187       1703       1178       1189       1705       1180
+
+ ELEMENT          695 with label "CPS3    " and with nodes:
+        141        414        363
+  is expanded into a "C3D6  S " element with topology:
+        854       1673       1520        856       1675       1522
+
+ ELEMENT          696 with label "CPS3    " and with nodes:
+        149        406        144
+  is expanded into a "C3D6  S " element with topology:
+        878       1649        863        880       1651        865
+
+ ELEMENT          697 with label "CPS3    " and with nodes:
+        385        408        318
+  is expanded into a "C3D6  S " element with topology:
+       1586       1655       1385       1588       1657       1387
+
+ ELEMENT          698 with label "CPS3    " and with nodes:
+        222        422        223
+  is expanded into a "C3D6  S " element with topology:
+       1097       1697       1100       1099       1699       1102
+
+ ELEMENT          699 with label "CPS3    " and with nodes:
+        138        398        355
+  is expanded into a "C3D6  S " element with topology:
+        845       1625       1496        847       1627       1498
+
+ ELEMENT          700 with label "CPS3    " and with nodes:
+        230        394        231
+  is expanded into a "C3D6  S " element with topology:
+       1121       1613       1124       1123       1615       1126
+
+ ELEMENT          701 with label "CPS3    " and with nodes:
+        144        406        143
+  is expanded into a "C3D6  S " element with topology:
+        863       1649        860        865       1651        862
+
+ ELEMENT          702 with label "CPS3    " and with nodes:
+        257        433        375
+  is expanded into a "C3D6  S " element with topology:
+       1202       1730       1556       1204       1732       1558
+
+ ELEMENT          703 with label "CPS3    " and with nodes:
+        142        412        364
+  is expanded into a "C3D6  S " element with topology:
+        857       1667       1523        859       1669       1525
+
+ ELEMENT          704 with label "CPS3    " and with nodes:
+        136        410        363
+  is expanded into a "C3D6  S " element with topology:
+        839       1661       1520        841       1663       1522
+
+ ELEMENT          705 with label "CPS3    " and with nodes:
+        135        409        364
+  is expanded into a "C3D6  S " element with topology:
+        836       1658       1523        838       1660       1525
+
+ ELEMENT          706 with label "CPS3    " and with nodes:
+        249        424        300
+  is expanded into a "C3D6  S " element with topology:
+       1178       1703       1331       1180       1705       1333
+
+ ELEMENT          707 with label "CPS3    " and with nodes:
+        223        226        225
+  is expanded into a "C3D6  S " element with topology:
+       1100       1109       1106       1102       1111       1108
+
+ ELEMENT          708 with label "CPS3    " and with nodes:
+        182        420        180
+  is expanded into a "C3D6  S " element with topology:
+        977       1691        971        979       1693        973
+
+ ELEMENT          709 with label "CPS3    " and with nodes:
+        232        404        387
+  is expanded into a "C3D6  S " element with topology:
+       1127       1643       1592       1129       1645       1594
+
+ ELEMENT          710 with label "CPS3    " and with nodes:
+        228        230        227
+  is expanded into a "C3D6  S " element with topology:
+       1115       1121       1112       1117       1123       1114
+
+ ELEMENT          711 with label "CPS3    " and with nodes:
+        146        149        144
+  is expanded into a "C3D6  S " element with topology:
+        869        878        863        871        880        865
+
+ ELEMENT          712 with label "CPS3    " and with nodes:
+        260        383        267
+  is expanded into a "C3D6  S " element with topology:
+       1211       1580       1232       1213       1582       1234
+
+ ELEMENT          713 with label "CPS3    " and with nodes:
+        384        409        135
+  is expanded into a "C3D6  S " element with topology:
+       1583       1658        836       1585       1660        838
+
+ ELEMENT          714 with label "CPS3    " and with nodes:
+        283        432        358
+  is expanded into a "C3D6  S " element with topology:
+       1280       1727       1505       1282       1729       1507
+
+ ELEMENT          715 with label "CPS3    " and with nodes:
+        375        433        252
+  is expanded into a "C3D6  S " element with topology:
+       1556       1730       1187       1558       1732       1189
+
+ ELEMENT          716 with label "CPS3    " and with nodes:
+        245        417        388
+  is expanded into a "C3D6  S " element with topology:
+       1166       1682       1595       1168       1684       1597
+
+ ELEMENT          717 with label "CPS3    " and with nodes:
+        387        404        125
+  is expanded into a "C3D6  S " element with topology:
+       1592       1643        806       1594       1645        808
+
+ ELEMENT          718 with label "CPS3    " and with nodes:
+        124        408        385
+  is expanded into a "C3D6  S " element with topology:
+        803       1655       1586        805       1657       1588
+
+ ELEMENT          719 with label "CPS3    " and with nodes:
+        147        151        148
+  is expanded into a "C3D6  S " element with topology:
+        872        884        875        874        886        877
+
+ ELEMENT          720 with label "CPS3    " and with nodes:
+        145        147        146
+  is expanded into a "C3D6  S " element with topology:
+        866        872        869        868        874        871
+
+ ELEMENT          721 with label "CPS3    " and with nodes:
+        383        407        187
+  is expanded into a "C3D6  S " element with topology:
+       1580       1652        992       1582       1654        994
+
+ ELEMENT          722 with label "CPS3    " and with nodes:
+        231        395        388
+  is expanded into a "C3D6  S " element with topology:
+       1124       1616       1595       1126       1618       1597
+
+ ELEMENT          723 with label "CPS3    " and with nodes:
+        145        146        144
+  is expanded into a "C3D6  S " element with topology:
+        866        869        863        868        871        865
+
+ ELEMENT          724 with label "CPS3    " and with nodes:
+        256        257        254
+  is expanded into a "C3D6  S " element with topology:
+       1199       1202       1193       1201       1204       1195
+
+ ELEMENT          725 with label "CPS3    " and with nodes:
+        279        393        281
+  is expanded into a "C3D6  S " element with topology:
+       1268       1610       1274       1270       1612       1276
+
+ ELEMENT          726 with label "CPS3    " and with nodes:
+        223        225        224
+  is expanded into a "C3D6  S " element with topology:
+       1100       1106       1103       1102       1108       1105
+
+ ELEMENT          727 with label "CPS3    " and with nodes:
+        285        376        284
+  is expanded into a "C3D6  S " element with topology:
+       1286       1559       1283       1288       1561       1285
+
+ ELEMENT          728 with label "CPS3    " and with nodes:
+        236        238        237
+  is expanded into a "C3D6  S " element with topology:
+       1139       1145       1142       1141       1147       1144
+
+ ELEMENT          729 with label "CPS3    " and with nodes:
+        242        244        243
+  is expanded into a "C3D6  S " element with topology:
+       1157       1163       1160       1159       1165       1162
+
+ ELEMENT          730 with label "CPS3    " and with nodes:
+        259        261        260
+  is expanded into a "C3D6  S " element with topology:
+       1208       1214       1211       1210       1216       1213
+
+ ELEMENT          731 with label "CPS3    " and with nodes:
+        386        416         42
+  is expanded into a "C3D6  S " element with topology:
+       1589       1679        557       1591       1681        559
+
+ ELEMENT          732 with label "CPS3    " and with nodes:
+        238        239        237
+  is expanded into a "C3D6  S " element with topology:
+       1145       1148       1142       1147       1150       1144
+
+ ELEMENT          733 with label "CPS3    " and with nodes:
+        225        227        224
+  is expanded into a "C3D6  S " element with topology:
+       1106       1112       1103       1108       1114       1105
+
+ ELEMENT          734 with label "CPS3    " and with nodes:
+        358        428        282
+  is expanded into a "C3D6  S " element with topology:
+       1505       1715       1277       1507       1717       1279
+
+ ELEMENT          735 with label "CPS3    " and with nodes:
+        286        312        218
+  is expanded into a "C3D6  S " element with topology:
+       1289       1367       1085       1291       1369       1087
+
+ ELEMENT          736 with label "CPS3    " and with nodes:
+        251        252        249
+  is expanded into a "C3D6  S " element with topology:
+       1184       1187       1178       1186       1189       1180
+
+ ELEMENT          737 with label "CPS3    " and with nodes:
+        248        251        249
+  is expanded into a "C3D6  S " element with topology:
+       1175       1184       1178       1177       1186       1180
+
+ ELEMENT          738 with label "CPS3    " and with nodes:
+        394        395        231
+  is expanded into a "C3D6  S " element with topology:
+       1613       1616       1124       1615       1618       1126
+
+ ELEMENT          739 with label "CPS3    " and with nodes:
+        248        421        251
+  is expanded into a "C3D6  S " element with topology:
+       1175       1694       1184       1177       1696       1186
+
+ ELEMENT          740 with label "CPS3    " and with nodes:
+        372        406        149
+  is expanded into a "C3D6  S " element with topology:
+       1547       1649        878       1549       1651        880
+
+ ELEMENT          741 with label "CPS3    " and with nodes:
+        358        432        175
+  is expanded into a "C3D6  S " element with topology:
+       1505       1727        956       1507       1729        958
+
+ ELEMENT          742 with label "CPS3    " and with nodes:
+        278        425        410
+  is expanded into a "C3D6  S " element with topology:
+       1265       1706       1661       1267       1708       1663
+
+ ELEMENT          743 with label "CPS3    " and with nodes:
+        239        398        347
+  is expanded into a "C3D6  S " element with topology:
+       1148       1625       1472       1150       1627       1474
+
+ ELEMENT          744 with label "CPS3    " and with nodes:
+        176        428        415
+  is expanded into a "C3D6  S " element with topology:
+        959       1715       1676        961       1717       1678
+
+ ELEMENT          745 with label "CPS3    " and with nodes:
+        314        421        250
+  is expanded into a "C3D6  S " element with topology:
+       1373       1694       1181       1375       1696       1183
+
+ ELEMENT          746 with label "CPS3    " and with nodes:
+        147        148        146
+  is expanded into a "C3D6  S " element with topology:
+        872        875        869        874        877        871
+
+ ELEMENT          747 with label "CPS3    " and with nodes:
+        238        240        239
+  is expanded into a "C3D6  S " element with topology:
+       1145       1151       1148       1147       1153       1150
+
+ ELEMENT          748 with label "CPS3    " and with nodes:
+        225        228        227
+  is expanded into a "C3D6  S " element with topology:
+       1106       1115       1112       1108       1117       1114
+
+ ELEMENT          749 with label "CPS3    " and with nodes:
+        174        426        374
+  is expanded into a "C3D6  S " element with topology:
+        953       1709       1553        955       1711       1555
+
+ ELEMENT          750 with label "CPS3    " and with nodes:
+        175        415        358
+  is expanded into a "C3D6  S " element with topology:
+        956       1676       1505        958       1678       1507
+
+ ELEMENT          751 with label "CPS3    " and with nodes:
+        240        398        239
+  is expanded into a "C3D6  S " element with topology:
+       1151       1625       1148       1153       1627       1150
+
+ ELEMENT          752 with label "CPS3    " and with nodes:
+        261        407        383
+  is expanded into a "C3D6  S " element with topology:
+       1214       1652       1580       1216       1654       1582
+
+ ELEMENT          753 with label "CPS3    " and with nodes:
+        319        393        279
+  is expanded into a "C3D6  S " element with topology:
+       1388       1610       1268       1390       1612       1270
+
+ ELEMENT          754 with label "CPS3    " and with nodes:
+        259        389        261
+  is expanded into a "C3D6  S " element with topology:
+       1208       1598       1214       1210       1600       1216
+
+ ELEMENT          755 with label "CPS3    " and with nodes:
+        242        388        244
+  is expanded into a "C3D6  S " element with topology:
+       1157       1595       1163       1159       1597       1165
+
+ ELEMENT          756 with label "CPS3    " and with nodes:
+        261        383        260
+  is expanded into a "C3D6  S " element with topology:
+       1214       1580       1211       1216       1582       1213
+
+ ELEMENT          757 with label "CPS3    " and with nodes:
+        376        432        284
+  is expanded into a "C3D6  S " element with topology:
+       1559       1727       1283       1561       1729       1285
+
+ ELEMENT          758 with label "CPS3    " and with nodes:
+        252        433        424
+  is expanded into a "C3D6  S " element with topology:
+       1187       1730       1703       1189       1732       1705
+
+ ELEMENT          759 with label "CPS3    " and with nodes:
+        226        422        382
+  is expanded into a "C3D6  S " element with topology:
+       1109       1697       1577       1111       1699       1579
+
+ ELEMENT          760 with label "CPS3    " and with nodes:
+        175        432        376
+  is expanded into a "C3D6  S " element with topology:
+        956       1727       1559        958       1729       1561
+
+ ELEMENT          761 with label "CPS3    " and with nodes:
+        424        433        256
+  is expanded into a "C3D6  S " element with topology:
+       1703       1730       1199       1705       1732       1201
+
+ ELEMENT          762 with label "CPS3    " and with nodes:
+        388        417        231
+  is expanded into a "C3D6  S " element with topology:
+       1595       1682       1124       1597       1684       1126
+
+ ELEMENT          763 with label "CPS3    " and with nodes:
+        256        433        257
+  is expanded into a "C3D6  S " element with topology:
+       1199       1730       1202       1201       1732       1204
+
+ ELEMENT          764 with label "CPS3    " and with nodes:
+        219        238        236
+  is expanded into a "C3D6  S " element with topology:
+       1088       1145       1139       1090       1147       1141
+
+ ELEMENT          765 with label "CPS3    " and with nodes:
+        372        376        285
+  is expanded into a "C3D6  S " element with topology:
+       1547       1559       1286       1549       1561       1288
+

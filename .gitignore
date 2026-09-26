@@ -1,6 +1,8 @@
 .venv/
-data/
-outputs/
+data/runs/*
+!data/runs/plate_000/
+!data/runs/plate_001/
+!data/runs/plate_002/
 __pycache__/
 *.py[cod]
 .DS_Store

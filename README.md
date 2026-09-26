@@ -14,6 +14,8 @@
 - `src/plate_demo/train_unet.py`: U-Net による応力分布マップ予測
 - `src/plate_demo/inp_builder.py`: CalculiX 入力デッキ生成
 
+`data/` と `outputs/` には、本書と同じ条件で作成した生成済みデータセット、学習済みモデル、評価結果が含まれています。`data/runs/` の解析結果は、容量を抑えるため `plate_000`〜`plate_002` の3ケースだけを収録しています。生成済みデータを使えば、500ケースのCalculiX解析をやり直さずに、データの内容や学習結果を確認できます。
+
 ## セットアップ
 
 Ubuntuでは、Gmshの実行に必要なシステムライブラリを先にインストールします。
@@ -31,6 +33,16 @@ docker build -t plate-stress-calculix .
 ```
 
 ## 使い方
+
+同梱された生成済みデータと学習結果を確認するだけなら、`data/` と `outputs/` をそのまま利用できます。
+
+解析データの生成からすべて自分で試す場合は、リポジトリのルートで生成済み成果物を削除してから実行してください。次の削除操作は、このリポジトリ内の `data/` と `outputs/` だけを対象にします。
+
+```bash
+rm -rf data/ outputs/
+```
+
+その後、次のコマンドを順に実行します。
 
 ```bash
 uv run python -m plate_demo.generate_dataset --cases 500
