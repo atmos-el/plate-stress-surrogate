@@ -1,5 +1,22 @@
 # Plate Stress Surrogate
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+<p align="center">
+  <img src="assets/book_cover.png" alt="『CAEエンジニアのためのサロゲートモデル入門 ―構造解析編―』表紙" width="360">
+</p>
+
+## 書籍情報
+
+| 項目 | 内容 |
+| --- | --- |
+| 書名 | CAEエンジニアのためのサロゲートモデル入門 ―構造解析編― |
+| 副題 | PythonとオープンソースCAEで学ぶデータ生成と深層機械学習 |
+| 著者 | 雰囲気工学ラボ |
+| 書籍リポジトリ | [atmos-el/book-surrogate-model-for-structural-analysis](https://github.com/atmos-el/book-surrogate-model-for-structural-analysis) |
+
+本リポジトリは、同書で扱う穴あきプレートの構造解析とサロゲートモデル構築を、手元で再現するためのサンプルコードです。
+
 このリポジトリには、2 次元板の線形静解析、データセット生成、およびサロゲートモデル学習のサンプルコードを収録しています。
 
 構成は次のとおりです。
@@ -57,3 +74,7 @@ uv run python -m plate_demo.train_unet
 `train_ridge_regression.py` は `outputs/scalar_prediction/` に学習済みモデル、評価指標、PNG グラフを保存します。
 `make_map_dataset.py` は `data/cases.csv` と `data/runs/` から 1 ケースごとの格子化を行い、`data/map_dataset.npz` を生成します。
 `train_unet.py` は `outputs/map_prediction/` にモデルと評価画像を保存します。
+
+## ライセンス
+
+このリポジトリのコードは [MIT License](LICENSE) のもとで公開されています。
